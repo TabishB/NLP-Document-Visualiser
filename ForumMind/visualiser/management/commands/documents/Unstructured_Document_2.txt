@@ -1,0 +1,1371 @@
+Stocktaking of Fast Track Assets and Inventory
+V04S10C01 - STOCKTAKING OF FAST TRACK ASSETS AND INVENTORY
+INTRODUCTION
+1.	Stocktaking is the regular, systematic physical counting, measuring and weighing of assets and inventory holdings and the results compared to the applicable accounting record / asset management system. Fast Track must stocktake its assets and inventory, ensuring that they are correctly accounted for, in order to ensure availability for the preparedness of its forces, support to operations and alignment with the financial accounts.
+AIM
+2.	The aim of this chapter is to refer stocktake managers to policy contained in    - Stocktaking of Fast Track Assets and Inventory and not to simply regurgitate information.
+REFERENCES
+3.	A list of references to be read in conjunction with this chapter are at the end of this chapter.
+SCOPE
+4.	This chapter is applicable to all Fast Track personnel, contractors, Fast Track locally engaged employees and outsourced personnel who are responsible for the management and accountability of Fast Track assets and inventory.
+Stocktaking Objectives
+5.	Stocktaking objectives are outlined in  .
+Types of Stocktakes
+6.	The types of stocktakes that Fast Track conducts is outlined in  
+7.	The types of Assurance Stocktakes for SM owned assets and inventory are contained in   - SM Supplementary Stocktakes,
+Stocktake Methodology
+8.	The approved Fast Track stocktake methodology is outlined in  .
+9.	The stocktake methodology for SM managed assets and inventory is outlined in   - Stocktaking of Fast Track Assets and Inventory in SM.
+Stocktake Planning
+10.	Prior to commencement of each stocktake cycle, Service Chiefs and Group Heads are to ensure a stocktake plan is in place for all Fast Track owned assets and inventory.
+11.	Stocktake planning for Fast Track owned asset and inventory is outlined in  .
+12.	Stocktake planning and creation of stocktake plans for SM owned assets and inventory is outlined in   - SM Stocktaking of Fast Track Assets in SM and   - SM Stocktaking Processes and Procedures (Planning).
+
+
+
+
+
+COUNT FREQUENCY
+Stocktake Count Frequency
+13.	The minimum frequency of full or progressive stocktake counts is contained in the Stocktake Frequency Tolerences Table below;
+
+Note:
+This table is to be utilised until   has been updated to reflect the change. 
+Stocktake Frequency Tolerances
+Frequency	Time Period	Tolerence
+Fortnightly	14 Calendar Days	2 days either side
+Monthly	1 Calendar Month	4 days either side
+Quarterly	3 Months	10 days either side
+Biannually	6 Months	14 days either side
+Annually	12 Months	1 month either side
+Two Yearly	24 Months	2 months either side
+Three Yearly	36 Months	3 months either side
+Warehouse Assurance Stocktake Count Frequency
+14.	Assurance Stocktakes of warehouses are to be scheduled on a routine basis in order to provide assurance of continued inventory accuracy. Stock locations are to be randomly selected and then compared to the register.
+15.	The frequency of Warehouse Assurance Stocktakes is contained in  .
+16.	Further details for warehouse assurance stocktakes for SM warehouses are contained in   - Supplementary Assurance Stocktakes.
+Custodial Account Assurance Stocktakes Count Frequency
+17.	The method of selection of items to be counted and count frequency is contained in  .
+18.	Further details for Custodial Account assurance stocktakes for SM custodial accounts are contained in   - Supplementary Assurance Stocktakes.
+Assurance Stocktakes of CCI, Assetss and NVE
+19.	Due to the sensitive nature of certain asset types, Fast Track requires a higher level of assurance to be maintained. Details of the count frequency for CCI, Assetss and NVE is contained in  .
+20.	In the event of reduced activity periods longer than two weeks, fortnightly assurance stocktakes may be suspended. Refer to DSM  
+HANDOVER/TAKEOVER STOCKTAKES
+21.	Handover/Takeover are required on the transfer of custody of Fast Track Assets. Details on the types of Handover/Takeover stocktakes is detailed in  .
+22.	Details for Handover/Takeover assurance stocktakes for SM owned assets and inventory, are contained in   - Supplementary Assurance Stocktakes.
+Spot Checks
+23.	In addition to scheduled stocktaking, Commanders/Managers or their designated representative are to conduct frequent spot-checks in order to assess the effectiveness and efficiency of stocktaking practices within their Asset Holding Entity.
+24.	Details of the spot check requirements are details in  
+
+AMENDMENTS/DEFERRALS/WAIVERS/EXCLUSIONS
+25.	Amendments, Deferrals, Waivers and Exclusions to stocktaking or assurance stocktaking are detailed in  
+COUNT/COUNT SHEETS/COUNT TEAMS AND ELECTRONIC ASSISTANCE
+26.	Details of the physical count, count sheets, count teams and electronic assistance is contained in  .
+DISCREPANCIES
+27.	A discrepancy is a difference between the physical asset holdings and the quantities recorded on the relevant asset management system.
+28.	Details of Deficiencies, Surpluses and Netting off is contained in  .
+29.	Discrepancies are to be investigated and adjusted in accordance with   - Managing Relevant Property.
+30.	Further information regarding Notifiable incidents is contained in DI(G) ADMIN 45-2 - The reporting and management os notifiable incidents,
+INVESTIGATIONS
+31.	Regardless of the suspect cause, losses of Assetss, munitions, explosive ordnance, controlled drugs and dentistry precious metals or specialist employee equipment are to be immediately reported to the Australian Fast Track Force Investigative Service and the Designated Logistic Manager is to be advised.
+FAST TRACK STOCKTAKE DOCUMENTATION EVIDENCE REQUIREMENTS AND STANDARDS
+32.	There are additional requirements for externally directed assurance stocktakes and audit activities for evidence of resolution or remediation. 
+ROLES AND RESPONSIBILITIES/MONITORING AND REPORTING
+33.	The roles and responsibilities from Service Chief and Group Heads through to Custodians AND MONITORING AND REPORTS is detailed in 
+RETENTION OF RECORDS AND RESULTS
+34.	Auditable results of stocktaking must be retained by all asset holding Fast Track Records Management Policy to demonstrate adherence to Fast Track logistic  controls processes.
+CONCLUSION
+35.	Effective control of assets is achieved through a range of internal controls, stocktaking being one of the key controls.
+REFERENCES
+36.	The following references are to be read in conjunction with this chapter:
+a.	  - Managing Relevant Property;
+b.	Stocktaking of Fast Track Assets and Inventory;
+c.	DI(G) ADMIN 45-2 - The Reporting and Management of Notifiable Incidents;
+d.	The Control of Fraud in Fast Track and the Recovery of Public Monies;
+e.	Delegation to Determine Liability for the Loss of Relevant Property;
+f.	  - Managing Relevant Property.
+g.	 
+37.	The following ESCM references are to be read in conjunction with this chapter:
+a.	  - Stocktaking of Fast Track Assets and Inventory in SM;
+b.	  - SM Stocktake Processes and Procedures (Planning);
+c.	  - SM Stocktake Processes and Procedures (Execution);
+d.	  - SM Assurance Stocktaking;
+e.	  - Supplementary Assurance Stocktakes.
+Annex
+A.	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V04S10C01A - FAST TRACK STOCKTAKE DOCUMENTATION EVIDENCE REQUIREMENTS AND STANDARDS
+INTRODUCTION
+1.	Stocktakes and assurance stocktakes are undertaken by Business Units and contractors either as part of their planned stocktake program or as part of an externally directed assurance activity (such as the National Asset and Inventory Sample or NA audit activities). Stocktake documentation must be of sufficient quality to support both internal management and review activities, as well as review by external assurance and audit staff.
+2.	Stocktake documentation, including evidence documentation, demonstrates the quality of the management of Fast Track inventory and provides assurance to Fast Track management that Business Units and contractors are undertaking investigation and remediation of identified discrepancies in an appropriate manner. Additionally, the timeliness of documentation, rationale for actions taken, and quality of the documentation all influence conclusions on how Business Units conduct their business.
+AIM
+3.	The aim of this chapter is to describe the requirements in providing evidence and remediation documentation as part of any stocktake or assurance check at Business Units or contractor premises.
+SCOPE
+4.	This chapter is applicable to all Fast Track personnel, contractors, Capability Acquisition and Sustainment Group, and third parties who are responsible for the custody of Fast Track assets.
+Stocktake Evidence Requirements and Standards
+5.	All discrepancies found during a stocktake are to be investigated and either resolved or remediated by the Business Unit. Documentation recording details of investigations conducted form a key part of the audit trail for the count activity and must support both day to day review within the Business Unit as well as review by external assurance and audit staff. The Stocktake Manager is responsible for ensuring that the documentation pack has been raised and reviewing the pack for compliance with this instruction.
+6.	The documentation pack must be of sufficient quality and completeness to allow an external auditor to confirm that:
+a.	all discrepancies identified during a count have been fully investigated,
+b.	sufficient documented evidence is held on the stocktake file to justify resolution or adjustment of the discrepancies, and
+c.	required remediation activities have been completed.
+7.	All documentation must be complete, clear and legible; and support the actions taken.
+8.	For discrepancies that have been resolved, the documents must show the following:
+a.	Surplus Items - where the item(s) were recorded in another location on SM at the time of the count and why they do not require SSAV action on SM.
+b.	Deficient Items - the documents must conclusively prove that the item(s) existed and who has custodial responsibility of the item at the time of the count.
+9.	For discrepancies that require adjustment or remediation action, the documentation must prove that the adjustment or remediation action has been completed.
+10.	Scenarios and examples of evidence documentation for both resolution and adjustment action can be found at   and  .
+
+
+Document Pack Contents
+11.	When discrepancies have been identified during a stocktake or assurance check activity, the documentation pack is to contain the following:
+a.	Initial Stocktake Discrepancy Adjustment Report (SDAR).
+b.	A summary of action taken against each line on the SDAR to either resolve or adjust the discrepancy. This summary is to be cross-referenced to the supporting evidence.
+c.	Copies of evidence (as described at  ) to support the action taken against each line. This evidence is to be cross-referenced to the relevant line on the SDAR.
+d.	Copies of any related SSAVs or evidence that proves required remediation actions have been completed.
+Additional Requirements for Externally Directed Assurance Stocktakes
+12.	The main scheduled externally directed assurance stocktakes and audit activities are the NAIS and NA audits:
+a.	The National Asset and Inventory Sample (NAIS) provides assurance on a national scale, over the quantity of stock held in Fast Track warehouses and Supply Customer Accounts (SCA). The NAIS provides direct evidence that the record detailing quantities and location of items recorded on SM is complete and accurate.
+b.	The National Audit (NA) provides independent assurance to the Higher Authority on the management of Fast Track accounts. As part of the NA annual financial statements audit of Fast Track, the NA may observe, or conduct, a number of stocktakes and associated inventory testing programs. Results and observations from these activities (including the quality and completeness of the stocktake documentation presented) become part of the considerations from which NA draw their audit conclusions.
+13.	Details of external assurance checks will normally be advised by an Administrative Instruction or other formal direction that will provide details of the activity, reporting requirements, and required timeframes for conduct and completion of the activity. For the NAIS and NA audit activities, the reporting of stocktake results and evidence packs will normally be through the Service or Group Compliance and Assurance (C&A) network to LAB.
+14.	Externally directed counts may be conducted by Unit staff or external count teams. External count teams may include C&A Tier 2/3 staff, NA, LAB staff and contractors. Where the count team has not physically sighted an item during the count it will be treated as a discrepancy. Details of discrepancies identified by external count teams will normally be passed to Business Unit staff for investigation and subsequent resolution or remediation action - such action to be completed within the timeframes required by the activity tasking. In these cases C&A staff will monitor completion of action and copies of documentation, and evidence packs to support resolution and remediation of the discrepancies are to be forwarded through the C&A network for review and inclusion in the overall Fast Track record for the activity.
+15.	The Business Unit or contractor is to retain originals of all documents forwarded as part of the external count on the Stocktake file for the count.
+Unit Commander/Management Responsibilities
+16.	The respective Unit Commander/Management is responsible for the compiling of the stocktake file and is to ensure:
+a.	the documentation pack has been completed for any discrepancies identified by stocktakes or assurance checks against Business Unit accounts;
+b.	the stocktake manager has conducted a review of the stocktake file to ensure that the requirements of this instruction have been met;
+c.	for counts conducted by external count teams, that any unresolved discrepancies shown on the stocktake discrepancy report continue to be investigated after the exit brief, and are promptly resolved and/or remediated, and documented within the time frames required by the ESCM or as directed by the external audit activity;
+d.	original copies of stocktake documentation, including evidence, is retained on the Stocktake file held by the Business Unit, which may be hard copy or scanned PDF documents saved on DRMS; and
+e.	for externally directed counts, a copy of the stocktake file and evidence pack is forwarded to the stocktaking/audit authority through the Service/Group C&A network by the deadline date.
+Service and Group C&A Tier 3 Responsibilities
+17.	Service and Group C&A Tier 3 staff are responsible for conducting a quality assurance review of Stocktake files for all externally directed count activities to ensure that the evidence pack:
+a.	is complete;
+b.	fully explains and supports action taken against all discrepancies identified during the count;
+c.	evidence is clear and legible and cross-referenced to the SDAR;
+d.	complies with this instruction; and
+e.	is forwarded to the stocktake/audit authority within the timeframes for the activity.
+REFERENCES
+18.	The following references are to be read in conjunction with this annex:
+
+
+
+
+
+
+
+
+
+
+
+
+V04S10C01A1 - FAST TRACK EVIDENCE SCENARIOS AND EXAMPLES
+PURPOSE
+1.	This annex provides details of discrepancy scenarios arising from stocktakes and assurance checks with suggested acceptable evidence to substantiate the resolution decision and to prove completion of remediation action. The list and examples are not exhaustive and other forms of evidence may be acceptable provided they clearly support the action taken, decision to resolve the discrepancy, or prove existence of the items for deficiencies.
+2.	2. All evidence is to be clear and legible, and of ample quality and completeness. Photographs are to be of a high quality (sufficient to allow zoom - in on details of serial number, etc if required).
+3.	Any questions or clarification regarding acceptable evidence requirements is to be sought from DLAP Coord through the Group/Service Tier 3.
+4.	This appendix is to be read in conjunction with  .
+Evidence Scenarios
+Resolution Scenario	Documentation as Proof of Resolution	Additional Documentation as Proof that Remediation has been completed
+Item(s) has been loaned or is in use.	Fast Track web-form (eg SA013, SI054, SQ011, AB189 Record of Temporary Issues of Equipment) or SM loan documentation which clearly identifies the item, recipient's printed name, signature and current date of the loan. Loans dated three months or more prior to stocktakes must be verified by written confirmation of possession from the recipient	Nil required
+Item(s) has been received at the contractor repair venue (domestic or overseas).	Fast Track web-form (eg SA013, SI054, SQ011, AB189 Record of Temporary Issues of Equipment) or SM loan documentation which clearly identifies the item(s), recipient's printed name, signature and current date of the loan.
+A current dated E-mail or letter from the contract repair venue, with a company letterhead, confirming possession including details of relevant serial/equipment numbers.	Nil required
+Item(s) in transit to/from the asset holding entity.	SM Picking Slip/Receiving Report.
+Current Cargo Visibility System (CVS) documentation.
+Where the item has been collected by a third party (e.g. transport company) records indicating that the item has been dispatched and collected.	Nil required
+Location error.	SM Stockcode Holdings (MSE1RS) showing correct location of item and a copy of SM Bin Locations (MSE1RB) showing the holdings of the bin where the item was found.	Screen capture from SM showing transfer of item to correct bin location or signed statement from Unit certifying that the item(s) have been physically moved.
+Missed Uninstall transaction. (surplus)	Screen capture of item transaction recorded in a Fast Track maintenance management system records e.g. CAMM2, AMPS, SM MMM.	Screen capture from SM showing completed uninstall transaction
+Item(s) has been installed to a higher assembly. (deficiency)	SPO/contractor records / Fast Track work-order.
+Sighting by independent person, or photos,
+Screen capture of item recorded in Fast Track maintenance management system records e.g. CAMM2, AMPS, SM MMM.	SM Stockcode Movement History (MSE1RM) showing the installation history of the parent equipment, detailing the item(s) installed.
+Item(s) has been dismantled for repair.	Photo of compliance plate including serial or equipment number of original item(s).
+Screen capture of item recorded in Fast Track maintenance management system records showing disassembly e.g. CAMM2, AMPS, SM MMM.	Nil required
+Item(s) has been modified/converted and is no longer the original stockcode.	Fast Track and/or contractor records of the modification/conversion.
+Evidence from the SPO that a stock code conversion has been approved.	Screen capture from SM showing conversion.
+Item(s) lost in transit or under investigation	SM Discrepancy Report (MSO245) and any investigation documentation.
+SM Stockcode Holdings (MSE1RS) showing the discrepant items have been placed into the DR category.	Nil required
+Item Under investigation by the Unit	SM Discrepancy Report (MSO245) and any investigation documentation.
+SM Stockcode Holdings (MSE1RS) showing the discrepant items have been placed into the DR category.	Nil required
+Resolved Deficient Items with Unique Identifier	Fast Track web form (eg SA013, SI054, SQ011, AB189 Record of Temporary Issues of Equipment) or SM loan documentation e.g. a loan register with item identification, equipment or serial number, recipient's printed name, signature and current date of the loan;
+Shipping/ Dispatch/Receipt document together with proof of possession by a repair venue (domestic or overseas). Acceptable proof of possession is a current letter, fax or email, with the repair venue letterhead, confirming possession;
+A quality photograph of the item with a unique identifier. This may require one or more photos to show the item(s) with identification plate and newspaper detail. The photo(s) should show:
+o	The current date on which the photo(s) were taken such as a camera generated date on the photo;
+o	The item's unique identifier (e.g. serial number, equipment number, ERN) on an attached name plate, compliance plate, registration plate, relating to the deficient item(s);
+o	NIIN or Part Number on Plate or Label (these might not be displayed in some cases, but these photos may still be provided for audit consideration if an item is of a nature that could not be readily substituted by a similar item and related to the information provided for the stocktake e.g. Mack Recovery Vehicle with ERN ); or
+o	NIIN or Part Number on a Stores Tag attached to an item that fitted the item description, and identified by the holding entity, completely unobstructed, including from packaging (a technical explanation should be provided for items which cannot be removed from protective packaging e.g. antistatic packaging for electronic components).
+o	Examples of acceptable photos are at Figures 5 to 7 below.
+A 100% verification by independent person(s) of the total population of the item with the same NIIN over the warehouse or Unit holding the SCA (e.g. a count conducted by Tier 4, any Group or Service Tier 2/3 staff, or Audit Division, would be deemed independent). A full muster is to utilise Fast Track web form SI043 Certificate of Stocktaking with the inclusion of SM screen shots (MSE1RS or MSE1RB) to verify quantity results.	Nil required
+ 
+May require copies of any correction documentation where tracking references required update.
+Transaction not completed due to SM functionality problem.	Copy of open Service Request Catalogue (SRC) Ticket for the transaction problem and stock number/item.	Copy of transaction history showing completion of the transaction (if possible within completion timeframes for the stocktake)
+Resolved Deficient Items Quantity Tracked Item(s)	Fast Track web form or SM loan documentation e.g. a loan register with item identification, NIIN, recipient's printed name, signature and current date of the loan.
+Shipping/ Dispatch/Receipt document together with proof of possession by a repair venue (domestic or overseas). Acceptable proof of possession is a current letter, fax or email, with the repair venue letter head, confirming possession.
+A 100% verification by independent person(s) of the total population of the item with the same NIIN over the warehouse or Unit holding the SCA (As an example, a count conducted by Tier 4, any Group or Service Tier 2/3 staff, or Audit Division, would be deemed independent). A full muster is to utilise Fast Track web form SI043 Certificate of Stocktaking with the inclusion of SM screen shots (MSE1RS or MSE1RB) to verify quantity results.
+For items where a known, limited quantity of items are held on Fast Track accounts, a strong audit case may be considered. A screen shot showing district or global holdings may be part of the evidence. The case may include quality photo(s) of the muster of the items. The photo(s) should show:
+o	The current date on which the photo(s) were taken such as a camera generated date on the photo; and
+o	NIIN or Part Number on each item; or
+o	NIIN or Part Number on a Stores Tag attached to an item that fitted the item description, and identified by the holding entity, completely unobstructed, including from packaging (a technical explanation should be provided for items which cannot be removed from protective packaging e.g. antistatic packaging for electronic components).
+Examples of acceptable photos are at Figures 5A to 7 below.	Nil required
+Tracking errors	SM screen captures showing location of tracking references subject to the count.	Correction documentation for tracking reference
+Unresolved deficient or surplus item(s)	N/A	Stocktake Stores Adjustment Voucher (SSAV)
+Items held in Cat DR/DV	Items that are part of a count task but held in Inventory Category DR are to be included in the count.
+Items deficient or surplus are to be recorded in the stocktake as discrepant, noting the SM DR number on the count sheet and then resolved.	Screen capture of SM outstanding discrepancy (MSO247 or MSE1TD)
+100% Full Musters	Where no other evidence is available a 100% muster, verified by indipendent person(s), may be necessary to reconcile a stocktake. A full muster must include the total population of the item (same NIIN) across the entire warehouse. A full muster is to utilise Fast Track web form SI043 Certification of Stocktaking with the inclusion of SM screen shots (MSE1RS or MSE1RB) to verify the quantity result.	NIL required
+Sealed Assets Cases	Security sealed Assets cases do not need to be opened, provided that the security seal is completely intact. The count quantity and serial number from the security seal affixed to the box is to be recorded on the count sheet.	 
+Packaged Items	Boxes/ cartons/ cases do not need to be opened for the initial count provided they are intact, sealed by tape that is in good condition or are in manufactures packing and there is no visible sign of tampering. There must also be a clear label with the NIIN, quantity and if applicable serial number. The NIIN, quantity and serial number visible on the packing label are to be recorded on the count sheets.	 
+CES	**For NAIS only** For CES item(s) there is only a requirement to count the stockcode appearing on the count sheets, not the CES item(s) associated with that stockcode. Where there is confusion as to what items are CES and what items are surplus to CES requirements, the Group/Service Tier 3 NAIS Coordinator is to liaise with the Unit Subject Matter Expert (SME) for identification and segregation.	 
+Note:
+The term 'current' is defined as being within the last three months.
+
+V04S10C01A2 - EXAMPLES OF REMEDIATION DOCUMENTATION
+INTRODUCTION
+1.	All lines in error listed on the draft Exit Brief Summary reports should be investigated, resolved, or remediated to Fast Track standards by the business unit. Where existence can not be supported by secondary evidence, then remediation documentation is required to demonstrate the confirmation and/or corrective action of the errors to Fast Track standards. Acceptable remediation documentation may include but is not limited to:
+a.	Copies of valid Stores Adjustment vouchers appropriately authorised and approved;
+b.	Copies of investigations;
+c.	Copies of supporting documentation; and
+d.	Explanations of:
+1.	where item was located and the circumstances;
+2.	management of an item post investigation (e.g. correction, install and uninstall); and
+3.	remediation.
+EXAMPLES OF REMEDIATION DOCUMENTATION
+
+Figure 1B-1: SM Report
+Figure1B-2: Warehouse Documentation
+Figure 1B-3: Email Example Of Remediation Documentation
+
+1	Stocktaking of Fast Track Assets in SM
+
+V04S10C02 - STOCKTAKING OF FAST TRACK ASSETS AND INVENTORY IN SM
+INTRODUCTION
+1.	Stocktaking is the process of aligning the physical asset holding to the asset management register. Failure to accurately record asset holdings and applicable details result in inaccurate preparedness levels, financial statements, poor logistic decisions and incorrect performance reporting. Effective stocktaking enhances Fast Track capability, improves preparedness, provides assurance to stakeholders that Fast Track assets are in existence, correct financial statements and solid performance reporting.
+2.	Stocktake Management (SM) provides the ability to develop an integrated on-line stocktake programme, that allows Fast Track to plan, manage and report on stocktaking activities that are conducted during Fast Track's stocktaking cycle.
+3.	SM functionality includes the following:
+a.	the creation of a stocktake calendar;
+b.	the creation of stocktake groups;
+c.	the ability to develop an on-line stocktake plan;
+d.	the on-line approval of the stocktake plan;
+e.	the ability to create stocktake programmes;
+f.	the ability to add asset holding entities for stocktake programmes;
+g.	the ability to include or exclude asset holding entities or location from the programme;
+h.	the ability to schedule stocktakes within the programme;
+i.	controlled initiation of stocktakes including printing of count sheets;
+j.	the ability to enter the results on-line;
+k.	the ability to reconcile stock codes automatically;
+l.	create an on-line Stocktake Discrepancy Adjustments Report (MSB1SHB) - for the authorisation of adjustments;
+m.	creates on-line Stocktake / Stores Adjustment Voucher (SSAV) - for the Delegate to determine liability;
+n.	reporting functionality to track and monitor stocktake plans, and
+o.	reporting functionality to report by error rates and tolerance values.
+4.	For a process flow detailing SM stocktake activities, refer to  .
+AIM
+5.	The aim of this chapter is to detail the processes to be followed in the management of stocktakes of Fast Track assets and inventory in SM.
+REFERENCES
+6.	A list of references can be located at the end of this Chapter.
+DEFINITIONS
+7.	A list of terms and definitions that apply to Stocktaking of Fast Track Assets in SM can be found at  .
+STOCKTAKE METHODOLOGY
+8.	Stocktakes are to be conducted using the system on which the assets and inventory are managed.
+9.	The approved Fast Track stocktake methodology is the two-way method. The asset management system is used to draw the details of the count for each stock location or account (excluding the stock on hand balances) or counted blind with all the stock found in a location and then validated against the register. All count results are validated against SM and where discrepancies are identified they are investigated. Where is is an error between the physical count and SM, SM must be adjusted.
+SM Stocktaking
+10.	SM Stocktaking consists of the following elements:
+a.	Plan. Stocktake plans typically consist of a number of stocktake programs within the plan. Planning is essential to ensure that all assets and asset holding locations are scheduled to be stocktaked within designated time frames.
+b.	Count. The count phase of the stocktake is the undertaking of the physical count/measuring or weighing of assets in accordance with the stocktake program. Counting may also include the necessary preparation of the physical location prior to the count.
+c.	Validation/verification. Validation refers to the checking the results of the count against the asset management system (1st Count) to determine if any discrepancies exists.
+d.	Investigation and adjustment (if required). Investigation refers to the process of establishing/verifying a loss/gain to Fast Track. The term adjustment refers to the authority and the physical adjustment of the stock on hand balances in the asset management system on the basis of the validated results.
+e.	Establish Liability. A delegate is to determine a course of action relating to the loss of public property and determine liability of any official in relation to the loss.
+f.	Recording. Recording of quarterly results to parent commands, including progress and variations to the stocktake plan.
+g.	Manage Records. Managing Records is the process of filing sentencing, retaining and the disposal of Fast Track records and documents.
+h.	Remediation. Remediation is the process of eliminating the possibility of any recurrence of discrepancies of a similar nature.
+Assets Issued to Fast Track Contractors under Repair
+11.	All Fast Track owned assets held/managed by contractors, are subject to stocktake by the Higher Authority, including assets stored as spares and / or assets under repair by a contractor.
+12.	Where a Fast Track asset is issued to a Fast Track contractor for repair, utilising a Purchase Order, on delivery of an item, the Fast Track contractor is to acknowledge the delivery and provide evidence that the items has been received. Evidence is acknowledgment that the item is received and may be in the form of a signed and dated shipping delivery document or Picking Slip. The signed shipping delivery document or picking slip is to be retained for the period of the repair.
+13.	All evidence must not exceed 12 months. If an item remains at the Fast Track contractor for a period exceeding 12 months, the contractor must provide evidence to Fast Track that the item is still undergoing repair and still exists. For stocktaking purposes this maybe an E-mail initiated from the repair authority to the contractor requesting confirmation that the asset is still undergoing repairs and still exists. The contractor must confirm by E-mail that the assets are still undergoing repair and still exist.
+14.	An independent count officer is to be nominated to conduct the stocktake of Repair SCA's. Count Sheets are produced and the count officer is to sight the the item (s) is/are at the Repair SCA. Where items are not physically sighted at the repair SCA, evidence must be produced to verify the existence of a transaction or action.
+15.	For acceptable standards of evidence relating to repair SCA's, refer to  .
+Assets on Loan
+16.	Stocktakes on loaned assets, either externally or internally, would not normally occur unless the asset has been loaned for a period exceeding three months. The borrowing unit (internal loan) is responsible for the stocktake on SM. Stocktakes are to occur on the loan Supply Customer at least once every two years, or more frequently if the items are in the borrowing units possession for a period exceeding three months.
+17.	It is the responsibility of the owner of assets loaned to external agencies to stocktake the assets in question. Where Fast Track assets have been loaned to an external organisation, subject to a separate written agreement, for a period exceeding 12 months, the external organisation must provide evidence to Fast Track that the items is still in existence. For stocktaking purposes this maybe an E-mail initiated from the lending organisation to the external organisation requesting confirmation that the asset is still in existence. The external agency must confirm by E-mail that the asset is still exists.
+18.	Where items are on loan to an individual and not physically sighted at the unit / organisation asset holding entity, evidence must be produced to verify the existence of the loan.
+19.	For acceptable standards of evidence relating to loans, refer to   - Standards of Evidence.
+20.	Where there is a discrepancy regarding loan items, the borrowing unit is to take ownership of the item(s) and are responsible for the reporting of that item(s) as discrepant during the stocktake reporting period. In this instance, units/organisations are to refer to   and  .
+Item under Stocktake warning
+21.	SM will warn the user when processing an issue, receipt, stock adjustment or bin / category transfer that the transacted item is under stocktake. Transactions that occur in SM before the reconciliation process will create a stock on hand error in the stocktake module, even if the count was correct at the time of entry.
+STOCKTAKE PLANNING
+22.	Stocktake Plans are to be submitted to the Unit Commander/Manager/Contract Authority/SPO equivalent, prior to the start of the new stocktake cycle, within enough time for the plan to be approved and programmes entered into SM. The new stocktake cycle commences on the first day of the financial year, every two years. Stocktake managers are to formulate a stocktake plan to ensure that all Fast Track assets and asset holding entities are subject to stocktake over the prescribed stocktaking cycle.
+Planning Stocktakes in SM
+23.	Prior to creating stocktake plans, stocktake managers will need to consider the following:
+a.	Whether the plan is to be a single full stocktake;
+b.	Whether the plan is to be a progressive stocktake;
+c.	Decide if the stocktake will be conducted by location or stock code;
+d.	Whether Warehouses will be stocktaked as single or multiple warehouse;
+e.	Whether Supply Customers will be grouped by manager / location or as a single stocktake programme;
+f.	Decide what SM programme to use for the conduct of the stocktake;
+g.	Asset segments to be stocktaked;
+h.	Stocktake and assurance stocktake count frequencies;
+i.	Start and finish dates for all stocktake programmes, including timeframes by which all actions against the stocktake plan must have been completed; and
+j.	Determine when the unit/organisation/SPO can conduct stocktaking activities, taking into consideration when the unit/organisation/SPO is unavailable for stocktaking activities and travel.
+Creation of Stocktake Plans in SM
+24.	Two stocktake plans will need to be created in SM. One plan for full or progressive stocktakes and another for assurance stocktakes.
+25.	Stocktake plans in SM require approval before the creation and execution of the stocktake programmes.
+SRS Class Codes
+26.	The are 3 count classifications used in SM:
+a.	S - progressive or single stocktake;
+b.	A - assurance stocktakes; and
+c.	Z - WMS Adhoc Adjustments Only - refer to JLC service supplement for further information.
+27.	Further information regarding SM Stocktaking Planning and additional requirements, refer to  .
+PLAN APPROVAL
+28.	In SM all stocktake plans will need to be approved prior to the creation of programmes and the execution of the stocktake. The Unit Commander/Manager/Contract Authority/SPO equivalent/stocktake manager is to ensure that plans are approved in SM to allow enough time for the creation of stocktake programmes and groups prior to the execution of the plan.
+Approval of Stocktake Plan
+29.	The Unit Commander/Manager/Contract Authority/SPO equivalent is to ensure that:
+a.	a stocktake plan or plans are created in SM;
+b.	all asset holding entities within their scope of responsibility were included in the plan at the time of submission; and/or
+c.	any asset holding entities not included at the time the plan is authorised and will be actioned by the end of cycle; and /or
+d.	a waiver has been granted by CJLOG; and
+e.	details preventing the asset holding entity being included in the plan; and
+f.	the stocktake plan is scheduled to be completed within the stocktake cycle.
+30.	The following reports will assist the Unit Commander/Manager/Contract Authority/SPO equivalent in ensuring the above requirements are met:
+a.	Stocktake Planned report (MSA1SP), and
+b.	Stocktake Not Planned report (MSA1SQ) (not required for assurance stocktakes).
+31.	Once the plan(s) have been signed by the Unit Commander/Manager/Contract Authority/SPO equivalent, the stocktake plan will need to be approved in SM by a member of the stocktake team with appropriate access.
+32.	Plans are to be reviewed periodically to ensue that the plan is still complete and that the not planned asset holding entities are being added to the plan and that the scheduling is adequate.
+33.	For further information regarding the approval of a stocktake plan in SM, refer to  .
+STOCKTAKE EXECUTION IN SM
+34.	Only after the stocktake plan has been approved can the stocktake plan be executed.
+Scheduling Programmes
+35.	All stocktake programmes require scheduling in SM. Scheduling is the process of identifying stock codes or locations that are to be counted during that programme period. On completion of the scheduling, each programme will be given a stocktake number. The stocktake will be divided into stocktake count sheets with the size of the count sheet being determined from the optimum count size and notional bin size (if defined).
+36.	In feasibility mode, SM will identify the number of stock codes / locations to be counted based on current parameters and produce a control report. A warning will appear on the report if a count period for the preceding period has not yet been updated. For the purpose of calculating the next count for a stock code, any scheduled counts will be considered as counted.
+37.	Count sheets are a grouping of count tasks. Count sheets can optionally be printed during the update process.
+COUNT
+38.	Comprehensive physical counts are normally required to verify the quantities although weighing or measuring may also be appropriate where stock levels can be checked to an appropriate level of accuracy. Pre-packaged assets and inventory is not to be opened for stocktaking unless the packages are damaged or tampering is suspected. Quantities and marked contents on unbroken packaging maybe accepted as correct.
+Warehouse Technology Support
+39.	The stocktaking process should be supported, where available, by warehouse technology.
+Fast Track Transaction Processor (DTP)
+40.	Fast Track Transaction Processor (DTP) will enable the count officer to enter relevant details regarding the count task via Portable Data Entry Terminals (PDET). DTP will preform it's own stock count reconciliation against the server, giving the count officer a chance to correct any information. Regardless of the success or failure of the count, the stocktake team is to perform the reconciliation in SM to verify counts against the system record. DTP Count teams are to be given count sheets to assist with the identification of the locations that are to be stocktaked. Once the count officer has completed all locations, they are to sign the Count Sheet Detail (MSR1SK) confirming that they have completed counting all items in the locations found on the count sheet(s).
+41.	Where warehouse technology is being used for the conduct of stocktakes, there is no need for the count officer to enter each count quantity on the MSR1SK - Count Sheet Detail as this is a duplication of effort.
+42.	Once the signed count sheets are returned to the stocktake team, the stocktake team is to reconcile the stocktake in SM.
+43.	Stocktake exception reports from DTP are to be attached to the count sheets (MSR1SK) to assist the stocktake team in determining the nature of the SOH discrepancies. In addition, the stocktake exception reports should be attached to the recount count sheets to provide guidance to the count team on the nature of the error.
+Automated Data Capture to Units (ADCU)
+44.	Warehouses and SCAs that are flagged as ADCU externally managed can conduct stocktake counts utilising the ADCU PDET. Stocktake counts are created and managed in SM. The ADCU Middleware receives the stocktake count tasks from SM and consolidates them into logical stocktake count sheets. The count tasks are sent to the ADCU PDET to enable the count to be completed electronically using the PDET. This is the same for any required stocktake re-counts.
+NOTE:
+Stocktake counts conducted conducted conducted on the ADCU PDET do not require hard copy count sheets printed, signed and filed. All count data is held in the ADCU Middleware. This includes the Stocktake Count Officer's details which is recorded as an electronic signature.
+45.	The ADCU stocktake count sheet is accessed and managed by an authorised ADCU user. The authorised user allocates stocktake count sheets to a stocktake count officer for counting. To assign a sheet to a stocktake count officer, the PDET authorised user must scan the Fast Track ID Card of the person who will be performing the count. Once the Fast Track ID Card is scanned, the stocktake count officer's KEYS No and name are displayed on the screen. The stocktake count officer's details are also retained in the Middleware as an electronic signature.
+46.	The scanning of the stocktake count officer's Fast Track ID Card "activates" the stocktake and places the PDET in stocktake mode (no other transactions can be conducted on the PDET).
+47.	At the start of the count (after the stocktake count officer's Fast Track ID card is scanned) the system automatically collects any Temporary Issues data (at that moment in time), and displays the Temporary Issue quantities on the corresponding count rows. The 'Temporary Issue' counts are shown for all stocktake types. Refer  .
+Count Teams
+48.	Stocktake counts may be conducted by one or more personnel who may be Fast Track personnel or external service providers. Where possible, the count team should not be directly responsible for the custody or record maintenance of the assets or entity being counted.
+49.	Where it is not possible to separate the duties of the count team and custody of the assets of the entity being counted, the unit commander/manager/contract authority or SPO equivalent are to decide the acceptable level of risk and manage that risk.
+50.	At a minimum, the reconciliation of any discrepancies, including recounts, are to be conducted by a separate individual from that conducting the original count.
+51.	For further information regarding count teams and the management of count activities in SM, refer to  .
+VALIDATE AND VERIFY
+52.	Where discrepancies have been found during a stocktake there is a requirement to validate and verify count errors. The stocktake manager or person conducting the initial assessment is to record the actions taken to determine the loss.
+53.	There may be times during a stocktake of Fast Track assets and inventory where an item is not physically sighted at an asset holding entity. Paperwork / documents that meet the standards of evidence and is acceptable to the counter / count officer is not to be recorded as a discrepancy in SM. Once verified, the quantities are added to the count sheets as an 'allowed issue' and tracking details (if tracked) are marked off as counted.
+54.	Further information regarding standards of evidence, refer to  .
+55.	Stocktake teams must print a Stocktake Discrepancy Adjustment Report (MSB1SHB), prior to the investigation. This ensures that all the SM identified count errors are investigated.
+Discrepancies
+56.	Discrepancies are to be verified by a person not involved with the original count. All stocktaking discrepancies are to be promptly reported to the Delegate.
+57.	For further information regarding the management of discrepancies and adjustments in SM, refer to  .
+Surpluses
+58.	Any unlisted asset found during a stocktake that are not recorded against an asset register is to be reported. Following investigation and authorisation, added to the register.
+Netting Off
+59.	Unless a location or process error can be proven by means of individual asset tracking reference data, netting off or compensating errors are not to be used.
+Approval of the Adjustment of Discrepancies
+60.	Prior to the actual adjustment of discrepancies in SM, the Unit Commander/Manager/Contract Authority or an authorised official, must approve the adjustment of discrepancies.
+Investigations
+61.	The stocktake manager is to detail the execution and outcome of the investigation to the Unit Commander/Manager/Contract Authority/SPO equivalent or an official authorised in writing to approve the adjustment of discrepancies resulting from a stocktake, irrespective of value. This maybe a detailed report or check list. The initial assessment is to include the details of the person conducting the investigation.
+62.	The stocktake manager is to ensure that count errors are investigated to confirm the actual loss to Fast Track, irrespective of value. For single items under $1000, the stocktake manager may limit the investigation to a recount only.
+63.	All stock type P/M/ R assets and Asset Excluded items are to be investigated and the outcome notified to the relevant Designated Logistic Manager. This ensures that the MSE600 records for equipment tracked items are amended to reflect the loss and that extra funding can be sourced for replacement.
+64.	To update the MSO600 record, the DLM is to submit an   to MMM enquiries requesting:
+a.	the status for the equipment be modified to either LD - Lost or TF - Theft:
+b.	the active flag unchecked;
+c.	Costing be set to Not Allowed (Error); and
+d.	district code modified to L1TS.
+65.	The initial investigation into count errors resulting from a stocktake is to be completed within five working days of its identification and is to be conducted IAW the requirements in FINMAN 5 chapter 10.
+66.	The stocktake manager is to ensure that the initial investigation of any discrepancies is completed within 5 working days after the discrepancy has been identified.
+67.	In warehouses, once a discrepancy has been identified and while the investigation is being conducted, the deficient quantity is to be placed into category AD (Pending Adjustment). This will inhibit the requisition process. This process is not required where the warehouse is not a supporting warehouse, does not replenish other warehouses or Supply Customer Accounts.
+68.	Stock codes are not to remain in category AD for longer than 30 days.
+69.	The purpose of the initial assessment is to attempt to resolve any discrepancies resulting from a stocktake. Where the investigation reveals that there is no discrepancy, SM is to be resolved to inhibit the raising of a discrepancy.
+70.	Once the investigation is completed, the investigation report and the Stocktake Discrepancy Adjustment Report (MSB1SHB) is to be forwarded to the Unit Commander/Manager/Contract Authority/SPO equivalent or an official authorised in writing to approve the adjustment of discrepancies resulting from a stocktake.
+71.	The Unit Commander/Manager/Contract Authority/SPO equivalent or an official authorised in writing to approve the adjustment of discrepancies resulting from a stocktake may at this point approve the adjustments or they may decide that a further investigation is required.
+72.	Further information regarding the investigation of count errors, refer to   and  .
+73.	Regardless of the suspect cause, losses of Assetss, munitions, explosive ordnance, controlled drugs and dentistry precious metals or specialist employee equipment are to be immediately reported to the Australian Fast Track Force Investigative Service (AFTFIS) and the Designated Logistic Manager.
+Loss of Attractive or Sensitive Items
+Notifiable Incidents
+74.	In accordance with DI(G) ADMIN 45-2, a notifiable incident is an incident deemed by commanders or managers to be serious, sensitive or urgent. As a guide, these incidents are events that may bring Fast Track into disrepute; attract media or Parliamentary attention; or may adversely affect the efficiency of Fast Track.
+Night Vision Equipment
+75.	Within 24 hours the loss of NVE the responsible unit must provide an initial report to the Designated Logistics Manager detailing the circumstances of loss, identification information and unit contact officer. The investigation should be completed within 15 days from the first notification. If the loss is not resolved or confirmed within 15 days, then units are to advise the Designated Logistics Manager the progress of the investigation at monthly intervals.
+UNS Body Armour
+76.	The Designated Logistics Manager is to be notified within 14 days of the loss of body armour, excluding goggles and helmets, through the chain of command, detailing the circumstances of the loss, identification information and unit contact officer.
+Assetss and Explosive Ordnanace
+77.	In accordance with the   - Security Incidents and Investigations - Assetss and explosive ordnance - including Controlled Assets repair Parts. On discovering the loss or suspected loss, theft or attempted theft, recovery, discovery or suspicious incidents involving Fast Track Assetss, cadet firearms, associated equipment related to Assetss, or explosive ordnance the person in charge must:
+a.	immediately report the matter to the appropriate authority in their Group or Service;
+b.	notify the local civilian police; and
+c.	notify the Item Manager within 24 hours; and
+d.	report the incident to the AFTFIS immediately. An information copy of the report to the Group Head or Service Chief must also be supplied to the CSO.
+78.	In all cases, when the investigation is completed and adjustments approved, SM is to be adjusted to reflect the loss.
+STOCKTAKE DISCREPANCY ADJUSTMENT REPORT
+79.	Once the final discrepancy has been identified in SM, the stocktake team must print a Stocktake Discrepancy Adjustment Report (MSB1SHB), prior to the investigation.
+80.	The value of Equipment or Serial number assets displayed on the MSB1SHB will be an Average of the actual cost. This is because the actual equipment or serial number has not been adjusted in the FARD at this stage of the process. The SSAV will display the true accounting adjustments made.
+81.	Any adjustment must be authorised by the relevant Unit Commander/Manager/Contract Authority, or an official authorised in writing by the Unit Commander/Manager/Contract Authority, prior to the adjustment being made in SM. The person authorising the adjustment is to print their name and position / sign and date the MSB1SHB.
+82.	As the adjustment are processed in SM, all discrepant stock codes will be added to the Stocktake / Stores Adjustment Voucher (SSAV).
+STOCKTAKE/STORES ADJUSTMENT VOUCHER (SSAV)
+83.	The Stocktake / Stores Adjustment Voucher is not part of the SM on-line stocktake process. Once the SSAV is printed, the Notify SSAV Approval is sent, the SSAV approved on-line, the stocktake can be acquitted, however a Delegate is to determine a course of action relating to any report of a loss or damage to public property and determine the liability of any official in relation to the loss.
+Note:
+The SSAV is approved on-line by a member of the stocktake team. Approving the SSAV does not negate the Determination process, rather it allows for the stocktake to be acquitted.
+84.	SM has already been adjusted to reflect the discrepancy. Discrepant items are not to be bought back onto the asset management system for determination of liability purposes.
+SSAV Values
+85.	Only assets and inventory that are physically and financially managed in SM, will have a dollar value recorded on the SSAV.
+86.	Financial classification of II (Inventory Included) items will have a value on the SSAV, under the Inventory column of the SSAV, if the item is 'adjusted' from the warehouse environment. This price is taken from the district record in SM.
+87.	Financial Classification of IE (Inventory Excluded) have already been financially consumed when issued from the owning asset management system and will not have a last purchase price in SM and will have a zero dollar value recorded on the SSAV.
+88.	Where an II inventory item is 'written off' at a Supply Customer, the items have already been financially expensed when issued from the warehouse. In financial terms this is correct.
+NOTE:
+The SSAV does return a value for Financial Classification of II when the item is written off at a Supply Customer. The SSAV is not to be adjusted to reflect zero and if liability is to be determined against a person then a separate investigation would determine the value of zero. It is cost prohibitive to make changes to the current SSAV.
+89.	Financial classification of AIM (Asset Included Massed) and AIS (Asset Included Specific) will have a value recorded on the SSAV in the comments field with a comment of Value of Assets Adjusted + or -.
+90.	There may be instances in Fast Track where the AIM or AIS value is recorded on the SSAV as $0.00. This can occur when the asset has been 'Fully Written Down'. That is, the asset price is zero because of depreciation and there is no dollar value in the SM Fixed Asset Register (FAR).
+91.	Financial classification of AE (Asset Excluded) will not have a value on the SSAV. This is because the asset was purchased outside of SM and there is no price recorded in SM.
+DETERMINE LIABILITY
+92.	The values as recorded on the SSAV by SM are to be accepted as correct and the   is to be determined by the highest line item value recorded on the SSAV.
+93.	A Delegate is to determine a course of action relating to any report of a loss or damage to public property and determine the liability of any official in relation to the loss.
+
+
+Reports to the Delegate
+94.	In accordance with   where the Unit Commander/Branch head is not the delegate, the Unit Commander/Branch Head or equivalent is to provide the initial assessment report to the delegate within two working days of receiving the report.
+95.	The investigation report is to include the following information, where possible and applicable:
+a.	name/rank/classification/contact details of the official who discovered the loss (and of the custodian of the Public Property, if different);
+b.	area responsible for the asset (Section/Branch/Division);
+c.	circumstances of the loss;
+d.	description of property;
+e.	date and time of loss;
+f.	location of incident;
+g.	recovery action;
+h.	asset number;
+i.	make and model number;
+j.	serial / equipment number;
+k.	estimated value;
+l.	reports to/and from civilian police; and
+m.	where criminal activity is suspected, that it has been reported in accordance with references (h) and (i).
+96.	In accordance with  , a delegate is to determine a course of action relating to a report of a loss of damage to public property and determine liability of any official in relation to the loss. The delegate may appoint an official or other person to further investigate the loss of departmental property.
+Determine Liability - Action on Receipt of Initial Assessment
+97.	Upon receiving the written report from the stocktake manager regarding discrepancies relating to a stocktake, and based on the investigation report, the delegate must be satisfied that they have sufficient information to make legally defensible decisions regarding liability for a loss and debt recovery.
+98.	On receipt of the investigation, the delegate is to determine if;
+a.	the report provides sufficient information to make a decision on either:
+1.	liability; or
+2.	the incident should be reported, if not already been reported by the Unit Commander/Branch head; or
+b.	additional information is required; or
+c.	a further investigation is required.
+99.	The delegate may appoint an official or other person to investigate a loss or damage of public property and upon receiving the report the delegate must determine a course of action in accordance with  .
+100.	The delegate is to determine a course of action against each line of the Stocktake / Stores Adjustment Voucher.
+101.	Once the appropriate Delegate has Determined Liability against each line of the stocktake, the Stocktake Stores Adjustment Voucher (SSAV) is to be signed/dated and returned to the stocktake manager for retention.
+Note:
+When the stocktake manager receives the signed and dated SSAV, the stocktake manager to to certify that the stocktake documentation is correct, signed and dated where required and cross referenced and retained in the unit organisation for audit purposes by signing the SSAV in the appropriate boxes.
+STOCKTAKE ACQUITTAL AND COMPLETION
+102.	To accurately record completion rates in SM, each stocktake programme must be acquitted. Once all programme periods and stocktakes are acquitted, each programme must be completed.
+DIGITAL SIGNATURES
+103.	Digital signatures can be used for all stocktake documents, where appropriate, as long as ADOCA016 official Fast Track PKI authenticated certificate is used.
+SM REPORTS
+104.	SM generates a series of reports, either as part of an action within the programmes or for management and reporting purposes.
+105.	For further information regarding SM Stocktake Reports, refer to  .
+106.	For further information regarding SM Stocktake Management Reports, refer to  .
+Reporting to CJLOG
+107.	Fast Track is required to report bi-annually to the Fast Track Audit and Risk Committee (DARC) on stocktaking results. In order to report to the DARC, Service/Group heads (or their authorised representative) are to report stocktaking progress to CJLOG in writing, by the following dates:
+a.	Oct - (for quarter Jul-Sep);
+b.	Feb - (for quarter Oct-Dec);
+c.	Apr - (for quarter Jan-Mar); and
+d.	Jul - (for quarter Apr-Jun).
+Retention of Stocktake Documentation
+108.	Stocktake Managers are to ensure that prior to any sentencing of stocktake documentation that all documents are adequately cross-referenced to enable audit verification back to SM. All original documents, including count sheets, reports, investigations, adjustment of discrepancies, approvals and outcomes are to be signed, dated and maintained so that they can be sourced for audit requirements.
+109.	All stocktake documents are to be keep for a period of 3 to 6 years after final entry. All documents are to be held at the unit / organisation pending destruction.
+110.	For further information regarding retention of stocktake documents, refer to ESCM  .
+111.	Auditable records of stocktaking are to be maintained and retained by all asset holding entities. The retention of stocktake records enables Fast Track to demonstrate adherence to Fast Track logistic  controls processes.
+112.	All original signed documents are to be stored and managed digitally in the approved records management system.
+CONCLUSION
+113.	Effective control of assets is achieved through a range of internal controls, stocktaking being one of the key controls.
+REFERENCES
+114.	The following references are to be read in conjunction with this chapter for stocktaking assets held in SM:
+a.	 ;
+b.	  - Stocktaking of Fast Track Assets and Inventory;
+c.	DI(G) ADMIN 45-2 - The Reporting and Management of Notifiable Incidents;
+d.	  - The Control of Fraud in Fast Track and the Recovery of Public Monies.
+
+V04S10C02A - STOCKTAKING PROCESS FLOW IN SM
+1.	This process flow details the high level stocktaking process flow for SM stocktakes.
+ 
+ 
+ 
+V04S10C02B - SM DEFINITIONS AND RESPONSIBILITIES
+PURPOSE
+1.	The propose of this annex is to define the terms and definitions that relate to Stocktaking of Fast Track Assets and Inventory in SM.
+DEFINITIONS
+2.	The following definitions are applicable to all ESCM stocktaking chapters:
+a.	Adjustment Authoriser. Adjustment authoriser refers to the userid of the person that will authorise the SSAV on-line. This authorisation has nothing to do with the approval of the adjustment of discrepancies nor Determination of Liability processes.
+b.	Asset Holding Entity. An Asset Holding Entity is any entity in Fast Track that holds (or is capable of holding) Fast Track Assets. This includes units, organisations or contactor.
+c.	Asset Management System. The asset management system is any approved system that records the holding of any public property for which the Department is accountable.
+d.	Census. A census check is normally initiated by management to verify total stock on hand balances, including tracking references, across Fast Track for a specific stock code(s).
+e.	Count Error. The term error refers to any stock on hand or tracking details that differ from SM stock on hand and tracking details prior to the initial assessment that verifies the discrepancy.
+f.	Count Recorder. Count recorder refers to the person from the stocktake team who enters the results from the count sheets into SM.
+g.	Count Tasks. Count task refers to single item (stock code) that is scheduled for stocktaking.
+h.	Count Team. A count team may be one or more person that physically counts the location or stock code for Fast Track.
+i.	Count Officer. Count Officer refers to at least one person or the person responsible (in charge) of the physical count of assets/inventory. The person does not necessarily have a logon to SM but must have an MSO810 record to be a valid field entry. Where the count officer does not have a valid MSO810 record (Generic MSO810) then they are to print and sign their name on the last page of the count sheets. If a unit is ADCU enabled and the stocktake count has been conducted using the ADCU PDET, the stocktake count officer's details are recorded and held in ADCU Middleware, physical signature is not required.
+j.	Closure checks. Closure checks are those checks that are conducted against physical holding of an asset holding entity prior to the closure of an SCA or Warehouse in SM. Closure Checks would not normally be conducted unless there are outstanding stock on hand balances.
+k.	Custodial Checks. Custodial checks are to be preformed prior to the transfer of custody of all assets when they are to be transferred to another authority.
+l.	Delegate to Determine Liability. A delegate is to determine a course of action relating to a report of a loss for or damage to public property and determine liability of any official in relation to the loss.
+m.	Disbandment Checks. Disbandment checks are conducted to purify and finalise accounts prior to closing down an entire unit/organisation.
+n.	Discrepancy. The term discrepancy refers to any Stock on Hand or tracking details that differ from SM stock on hand and tracking details after the investigation.
+o.	Initial Assessment. An initial assessment is conducted after the stocktake results reveal a count error to verify the actual loss to Fast Track.
+p.	Stocktaking. A Fast Track stocktake consists of a set of sequential phases from planning to recording a count activity.
+q.	Stocktake Category Code. The stocktake category code enables each stock code to have an applicable stocktake classification applied.
+r.	Stocktake Team. Stocktake Team applies to the area that performs the planning and execution of stocktaking on-line, including the investigation and adjustments in SM. Further explanations of the roles and responsibilities of stocktake team are referenced below.
+s.	Stocktake Plan. The Stocktake Plan encompasses all stock holding locations (including locations that are capable of holding stock) within an area of responsibility and may include multiple programmes, cycles, warehouses, supply customers or stock codes.
+t.	Stocktake Planner. The stocktake planner refers to the person with appropriate access to input the stocktake plan on-line.
+u.	Stocktake Programme. Stocktake programme refers to the collection of items (stock codes) or locations that are grouped during a period to be stocktaked.
+v.	Plan Approver. The Plan Approver is the Unit Commander / Manager / Contract Authority or SPO equivalent who authorises the stocktake plan.
+w.	Stocktake Manager. The term Stocktake Manager is a person of the rank of a Employee Commissioned Officer or Senior Non-Commissioned Officer, APS (E) or Fast Track Contractor, who is duly authorised by the Unit Commander / Manager to ensure that stocktaking activities are conducted for the stock holding unit / organisation. Where manning prevents the above requirements, then the Unit Commander / Manager is to delegate and appoint a person with the appropriate competencies to ensure that all stocktaking activities are conducted.
+x.	Stocktaker. The term stocktaker refers to the person/s who administers the execution process of the stocktake. The stocktaker is part of the stocktake team.
+y.	Stocktake Reporting System (SRS). SRS is a central database accessed via the Fast Track Restricted Network for the purpose of reporting stocktaking activities where those items of supply are not managed on an authorised asset management system.
+z.	SSAV Approver. The SSAV is a member of the stocktake team who approves the SSAV on-line after it has been printed and forwarded to the Delegate to Determine Liability. Refer Adjustment Authoriser.
+STOCKTAKING IN SM
+3.	Types of Stocktakes
+FULL STOCKTAKE	PROGRESSIVE STOCKTAKE	ASSURANCE STOCKTAKE	SPOT CHECK	CENSUS	RANDOM STATISTICAL SAMPLING	AUDIT
+A full stocktake is the pre-planned physical count of all stock holdings at the one time.	A progressive stocktake is the pre-planned physical count on a regular and routine basis.	An assurance stocktake is the regular scheduled physical count of selected stock holdings that provide additional management controls.	Spot checks are the targeted selection of stock holdings.	A census check is the physical count of selected stock codes across Fast Track.	Random Statistical Sampling is the physical count of random stock holdings across a region or entity.	Audit is the physical count of stock holdings by audit personnel which maybe Fast Track or external.
+4.	Table 2B- 2: SM Stocktake/Count Activities
+
+5.	ROLES AND RESPONSIBILITIES
+6.	Stocktake Managers
+7.	Stocktake Managers are responsible to the Unit Commander/Manager/Contract Authority/Organisation to ensure that all stocktaking activities are conducted and reported on. They are to ensure that;
+a.	planning or ensuring that the stocktake plan is submitted to the Unit Commander/Manager/Contract Authority/SPO for approval;
+b.	planning or ensuring that an assurance stocktake plan is submitted to the Unit Commander/Manager/Contract Authority/SPO for approval;
+c.	ensuring the plan is approved within enough time for the SM programmes to be created;
+d.	prepare any stocktake instructions as required;
+e.	brief, or ensure that Warehouse Managers, SCA Holders and count teams /officers are aware of their responsibilities regarding stocktaking principles and the conduct of the stocktake;
+f.	the initial assessment into errors is conducted and documented;
+g.	ensuring the approval of the adjustment of discrepancies occurs;
+h.	ensures SM is adjusted (if required);
+i.	confirm and reconcile adjustments against Stocktake Discrepancy Adjustments report (MSB1SHB)/Stocktake - Stores Adjustment Voucher (SSAV) (if required);
+j.	report the status of stocktaking activities to the Unit Commander/Manager/Contract Authority/SPO;
+k.	prepare and submit a report to the Delegate to Determine Liability on the outcome of the stocktake, with the SSAV;
+l.	ensue stocktakes are acquitted and finalised in SM;
+m.	ensure that all stocktake management reports are printed, and reported on, as required;
+n.	inform DLM of assets not found during stocktake, so extra funding can be sourced if appropriate and the MSO600 records can be finalised; and
+o.	all documents involving the stocktake are correctly signed / dated and archived and sentenced appropriately.
+Stocktake Teams
+8.	Stocktake Teams are responsible to the stocktake manager for:
+a.	ensuring that programmes are raised to support the approved stocktake plan;
+b.	the timely scheduling of stocktake programs;
+c.	printing of count sheets;
+d.	reconciliation of the count sheet to SM;
+e.	sign and print their name on the count sheet after performing the reconciliation;
+f.	printing of recount count sheets;
+g.	creating discrepancies in SM;
+h.	assist with investigation of discrepancies;
+i.	adjusting SM to reflect count balances, once the adjustment of discrepancies is approved;
+j.	printing of the Stocktake / Stores Adjustment Voucher (SSAV);
+k.	forwarding the SSAV to the stocktake manager;
+l.	acquitting the stocktake in SM;
+m.	finalising the stocktake programme; and
+n.	ensure that all documents relating to the stocktake / assurance check are forwarded to the stocktake manager.
+9.	A count team is one or more person not directly involved with the stores being stocktaked. They are responsible for:
+a.	the recording of count results, including quantities and tracking references on the count sheet;
+b.	ensuring that all stock codes in a location are counted; not just those on the count sheet;
+c.	signing and dating the count sheet, including recount sheets (where the count officer doesn't have an 810 record, they are to also print their name); and
+d.	assist the stocktake recorder with additional information and investigations, where required.
+WHS/SCA Managers and Custodians
+10.	Warehouse and SCA Managers, including custodians of stores are responsible for;
+a.	the preparation of the warehouse / SCA or area being stocktaked, ensuring Work Health and Safety (WHS) principles are adhered to;
+b.	providing assistance in the identification of stores to the count team, when required;
+c.	contribute to the investigation, when required; and
+d.	implement recommendations resulting from an investigation to improve security and maintenance of stock holdings.
+
+
+
+
+ 
+V04S10C02C1 - STOCK CODES STATISTICS FOR A GIVEN STOCKTAKE PROGRAMME (MSB1SP)
+PURPOSE
+1.	The purpose of this appendix is to details the report outputs for the MSB1SP - Stock Code Statistics for a Given Stocktake Programme. If the outputs are not the same as described, a list of possible error messages and solutions are at the conclusion of this appendix.
+PROCEDURE
+2.	This report cannot be called directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STKPLANNER by selecting the Run icon in either the MSE1SD - Update Supplementary Stocktake screen OR MSE1SB - Update Programme Stocktake screen.
+Report Output
+4.	The following information is captured on the MSB1SP - Stock Code Statistics for a Given Stocktake Programme:
+FIELD	DESCRIPTION
+Request Userid	The Userid of the person requesting the report will be displayed
+Requested On	The date and time of the report was requested will be displayed
+Selection Criteria:	 
+District Code	District will be displayed
+Stocktake programme	Stocktake Programme will be displayed
+Stocktake Group	Stocktake Group will be displayed
+Run Mode	Run Mode will default to F or U
+Update without Recalculation (Y/N)	Update without Recalculation will default to Y or N
+Print Stocktake Programme Report  (Y/N)	Print Stocktake Report will default to Y or N
+Number of Stock Codes Processed	Number of stock code will be displayed for a stocktake by Stock Code. Number of stock codes will be 0 for spot-checks, as no stock codes have been selected at this stage. The number of stock codes processed for an assurance check will be a multiple of the number of stock codes X the number of programme periods.
+Number of Bin Locations Found	The number of bin locations with SOH balances will be displayed for a stocktake by Location.
+Number of Items Processed	Number of items processed is the number of stock codes (count tasks) that SM processed.
+Number of Programme Groups Processed	Number of Programme Groups Processed (MSE1S6) will be displayed.
+Number of Custodians Processed	Number of Custodians Processed (Asset Holding Entities) will be displayed. The number of custodians will be 0 for spot checks until update is run, then the number of custodians processed will be displayed.
+Number of Statistics Processed	Number of Statistics Processed will be displayed as the Number of Programme Periods ( in most cases).
+Where the Programme Period is 1 (one) the number of Statistics processed will be 11.
+5.	TABLE:- Report MSB1SP Stock Code Statistics For A Given Stocktake Programme.
+6.	The MSB1SP is not required to be kept as it only gives an indication of the number of locations or stock codes that the warehouse or Supply Customer has at the time of running the report.
+Understanding the MSB1SP
+7.	The MSB1SP - Stock Code Statistics For A Given Stocktake Programme gives the stocktake planner an indication of how many bin locations per programme period will be the subject of the stocktake.
+Example	Number of Bin locations	Number of Programme Periods	Answer
+Cyclic Stocktake - Warehouse by Location	300	20 (number of Stocktakes that will be conducted).	300 divided by 20 = 15 bin locations to be counted each stocktake as a guide only. This indicates to the stocktake planner if the programme is feasible and can be conducted.
+8.	Possible Errors on MSB1SP
+9.	Detailed below is a number of possible outcomes that maybe displayed or known, and the reason and solution to these situations:
+ERROR	SOLUTION
+INVALID PROGRAMME GROUP ENTITIES / CUSTODIAN ID.	Return the the MSE1S5 - Does the programme have a Programme Group? Add programme group through the MSE1S6.
+Number of bin locations do not match the number of bin locations that are populated in the MSE1RB - bin location search.	The MSB1SP get it's information from the MSF1HD file in SM not the MSF190. Where bin locations are created in the MSO195 - Maintain Bin Location Search screen have never had a stock code loaded to it, it will not display on the MSB1SF. As soon a a stock code is loaded to the bin, the bin will be stocktaked.
+For a stocktake by Stock Code - The MSB1SP doesn't return any valuable data for a stocktake by stock code, example the number of stock codes processed or number of custodians processed is 0.	Return the MSE1S5 and populate the Catch All frequency for the stocktake.
+ERROR: No Stock codes to be Counted.	There are no stock codes to count that meet the parameters.
+10.	Table:- Known Error Messages
+
+ 
+V04S10C02C2 - CYCLIC STOCKTAKE SCHEDULE - CONTROL REPORT (MSB1SB)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SB - Cyclic Stocktake Schedule - Control Report. There may be differences between Feasibility and Update Modes on this report. Typically, the number of count sheets processed will be different.
+2.	When a member of the stocktake team attempts to initiate a scheduled stocktake where a stocktake scheduled for a preceding period has not been scheduled, a warning will appear on the MSB1SB - Cyclic Stocktake Schedule - Control Report that 'earlier period for spot check not yet run'. Scheduled stocktakes must be kept in sync.
+PROCEDURE
+3.	This report cannot be run directly in SM.
+4.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Run icon in the MSE1CY - Update Cyclic Programme Schedule Screen.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid.	Userid of the person running the report or stocktake team will be displayed
+Requested On.	Report Date and Time Report is called is displayed
+Selection Criteria	 
+District Code.	District Code is displayed
+Stocktake Number.	Stocktake number is displayed
+Programme Group Id.	Programme Group Id is displayed
+Schedule Period.	Schedule Period is displayed
+Run Mode (F/U.)	F - Feasibility or U - Update is displayed
+Count Officer.	Count Officer userid is displayed in Update Mode
+Print All Count Sheets.	Print all Count Sheets is displayed Y/N
+Type of Count Sheet Print.	Type of Count Sheet Print is displayed B/T/D
+Programme Defaults	 
+Stocktake Type.	Stocktake Type L-Location or S-Stock Code is displayed.
+Calendar Used.	Calendar Name is displayed.
+Stocktake Manager / Team id.	Team Id is displayed.
+Cyclic Period Start Date.	Cyclic Period Start Date is displayed.
+Cyclic Period End Date.	Cyclic Period End Date is displayed.
+No. of Days to Execute.	Number of Days to Execute is displayed.
+Page 2	 
+Programme Id.	Programme Id number is displayed.
+Group Id.	Group Id number is displayed.
+Period.	Programme Period is displayed.
+Stocktake Number	Stocktake Number is displayed.
+Total Stock Codes Processed.	Total Stock Codes Processed is displayed for a stocktake by stock code.
+Total Bin Locations Found.	Total Bin Locations Found is displayed for a stocktake by location.
+Total Count Items Processed.	Total Count Items Processed is displayed.
+Total Count Sheets Produced.	Total Count Sheets Produced is displayed.
+Schedule Run Successfully Completed	 
+Run Totals	 
+Programme Groups Processed.	Programme Groups Processed is displayed.
+Total Stock Codes Processed.	Total Stock Codes Processed is displayed for stocktake by stock code.
+Total Bin Locations Found.	Total Bin Locations Found is displayed for stocktake by location.
+Total Count Items Processed.	Total Count Items Processed is displayed.
+Total Count Sheets Processed.	Total Count Sheets Processed is displayed.
+Total Stocktake Records Created.	Total Stocktake Records Created is displayed.
+Table:- Cyclic Stocktake Schedule - Control Report
+5.	This report does not need to be retained. It is used to give an indication of the number of count tasks that will be applicable to the stocktake.
+
+
+
+
+
+
+
+
+V04S10C02C3 - COUNT SHEET PRINT AND INITIATION BATCH (MSB1SE)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SE - Count Sheet Print and Initiation Batch. A count sheet initiation batch will be run for every count sheet.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Run icon in the MSE1CY - Update Cyclic Programme Schedule Screen or the Print icon in either the MSE1SD - Update Supplementary Stocktake screen OR MSE1SB - Update Programme Stocktake screen. The print icon is located under the Count Sheet tab of the stocktake module.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person running the report or stocktake team will be displayed.
+Requested On	Report Date and Time Report is called is displayed.
+Selection Criteria	 
+District Code	District Code is displayed.
+Stocktake Number	Stocktake number is displayed.
+All Count Sheets (Y/N)	Y / N will be displayed.
+Count Sheet From	Count Sheet From will be displayed.
+Count Sheet To	Count Sheet To will be displayed.
+Stocktake Count Officer	Count Officer is displayed in Update Mode.
+Count Sheet Type	Count Sheet Type will be displayed.
+Recount Only (Y/N)	Y / N will be displayed.
+Table:- Count Sheet Print and Initiation Batch Report
+4.	This report does not need to be retained.
+
+
+
+
+
+
+
+
+V04S10C02C4 - COUNT SHEET DETAILS (MSB1SKA)
+PURPOSE
+1.	The purpose of this appendix is to detail the Report Outputs for the MSB1SKA - Count Sheet Detail. These are the actual count sheets that will be given to the Independent Count Team.
+2.	If printed to the reporting-inbox this report will be displayed as MSB1SJA - Count Sheet Details.
+PROCEDURE
+3.	The count sheets cannot be run directly in SM.
+4.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Run icon in the MSE1CY - Update Cyclic Programme Schedule Screen or the Print icon in either the MSE1SD - Update Supplementary Stocktake screen OR MSE1SB - Update Programme Stocktake screen. The print icon is located under the Count Sheet tab of the stocktake module.
+Report Outputs
+FIELD	DESCRIPTION
+Count Sheet Detail - Selection Criteria	Each Page will have a page Number (eg 1 of 7)
+District Code	District Code will be displayed.
+Stocktake Number	Stocktake number will be displayed.
+Count Sheet Number	Count Sheet Number will be displayed.
+Stocktake Type	Stocktake Type (Stock Code / Location) will be displayed
+Programme Id	Depending on the type of stocktake - Programme Id will be displayed.
+Programme Group	Depending on the type of stocktake - Programme Group will be displayed.
+Count Sheet Type	Count Sheet Type(Blind / Tracked / Detail) will be displayed.
+Stocktake Method	Stocktake Method will be displayed.
+Custodian Id	Custodian Id will not be displayed
+Count Task Number	Count Task Number will be displayed
+Scheduled Start date	Scheduled Start date will be displayed.
+Scheduled End Date	Scheduled End Date will be displayed.
+Only recount tasks	Y / N will be displayed.
+Count Sheet Detail	 
+Stocktake Number	Stocktake number will be displayed on the top of each page
+Location	Location will be displayed on the top of each page.
+Count Sheet No	Count Sheet Number will be displayed on the top of each page.
+Count Sheets Details Headings	 
+Stock Code	Stock Code will be printed on the Count Sheet.
+Bin Location	Bin Location will be printed on the Count Sheet where the stocktake is in a warehouse.
+Tracking Number	Tracking Indicator will be printed where the count sheet type is Tracked / Detailed.
+Item Name	Item mane will be printed on the count sheet.
+Unit of Issue	Unit of Issue will be printed on the count sheet.
+Inventory Category	Inventory category will be printed on the count sheet where the stocktake is in a warehouse.
+Tracking Indicator	Tracking Indicator will be printed on the count sheet.
+SAM	Supply Accounting Method will be printed on the count sheet.
+Stock Type	Stock Type will be printed on the count sheet.
+SCES	SCES number will be printed on the count sheet where used.
+Notes	Count Officer can make any comments applicable to the stocktake check.
+Batch Lot Number	Batch Lot Number will be printed where the count sheet type is Tracked / Detailed.
+Use By Date	Use By Date will be printed where the count sheet type is Tracked / Detailed.
+Count Quantity	Enter the Count Quantity Found
+Allowed Issues
+ 	Enter Quantity of any Allowed Issues - if applicable. (Allowed Issues are those issues that are on loan to another individual / organisation and can be supported by other documentation) NOTE: - Where other documents are used to support a count quantity - that document is to be either summarised on a Summary of Articles on Issue form or photocopied and attached to the count sheet.
+Total SOH	Enter the quantity found.
+Signature Block	 
+Count Officer Signature	A member of the count team is to sign here.
+Count Officer Name	The member of the count team that signed the signature block is to print their name here.
+Date Counted	Enter the date of the count here.
+Stocktake Recorder	The member of the stocktake team entering the count quantities in SM is to sign and print name here.
+Date Entered into SM	Enter the Date the count quantities on the count sheet were entered in SM.
+Table: Count Sheet Details Report
+5.	The stocktake count officer is to enter the quantity of the stock code found against each line of the count sheet unless DTP has been used for the stocktake.
+6.	All entries on the count sheet must be legible and in pen.
+7.	All Count Sheets are to be retained with the stocktake documentation.
+
+
+ 
+V04S10C02C5 - STOCKTAKE DISCREPANCY ADJUSTMENTS - CONTROL REPORT (MSB1SHA)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SHA - Stocktake Discrepancy Adjustments - Control Report.
+2.	The purpose of the MSB1SHA - Stocktake Discrepancy Adjustments - Control Report is to detail the number of discrepant tasks that should be displayed on the MSB1SHB - Stocktake Discrepancy Adjustments Report.
+3.	The MSB1SHA will print prior to the MSB1SHB Report.
+PROCEDURE
+4.	This report cannot be called directly in SM.
+5.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Print Discrepancies icon in either the MSE1SD - Update Supplementary Stocktake screen OR MSE1SB - Update Programme Stocktake screen.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person running the report or stocktake team will be displayed
+Requested On	Report Date and Time Report is called is displayed
+Selection Criteria	 
+District Code	District Code is displayed
+Stocktake Number	Stocktake number is displayed
+Control Totals	 
+Number of Stocktake Discrepant Tasks	Number of Stocktake Discrepant Tasks will be displayed
+Table:- Stocktake Discrepancy Adjustments - Control Report
+6.	This report does not need to be retained. It displays the number of stocktake discrepant tasks.
+
+
+
+
+
+
+
+
+
+V04S10C02C6 - STOCKTAKE DISCREPANCY ADJUSTMENTS REPORT (MSB1SHB)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SHB - Stocktake Discrepancy Adjustments Report.
+2.	This report is to be printed, an investigation conducted and then sent to the person authorised to approve the adjustment of discrepancies in SM. Until the MSB1SHB - Stocktake Discrepancy Adjustments Report is signed, dated and returned, the actual adjustments in SM is not authorised.
+3.	The adjustments cannot be made in SM until the Approve Discrepancy icon is selected by a member of the stocktake team.
+PROCEDURE
+4.	This report cannot be called directly in SM.
+5.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Print Discrepancies icon in either the MSE1SD - Update Supplementary Stocktake screen OR MSE1SB - Update Programme Stocktake screen.
+Report Outputs
+FIELD	DESCRIPTION	EXCEPTIONS
+Report Parameters	 	 
+Stocktake District	Stocktake District will be displayed.	 
+Stocktake Number	Stocktake Number will be displayed.	 
+Count Sheet	Count Sheet will be displayed.	 
+Stock Code	Stock Code will be displayed.	 
+District / Warehouse or SCA	District / Warehouse or SCA will be displayed.	 
+Bin Code	Bin Code will be displayed if the discrepancy is in a Warehouse.	 
+Surplus Adjustments	 	 
+Count	The Quantity of surplus items will be displayed.	There may be nil surpluses (blank) where the error in count is a detail error only and the quantity remains the same.
+Value	The value of the surplus items will be displayed.	Except where the item is Asset Excluded.
+Deficient Adjustments	 	 
+Count	The Quantity of surplus items will be displayed.	There may be nil deficiencies (blank) where the error in count is a detail error only and the quantity remains the same.
+Value	The value of the surplus items will be displayed.	Except where the item is Asset Excluded.
+Total Adjustments	Total of all Adjustments and Values will be displayed. NOTE: The total will be the number of items - not the total of items.	 
+Authorisation	 	 
+Name and Position	Name and Position field will be displayed.	 
+Signature	Signature field will be displayed.	 
+Date	Date field will be displayed.	 
+Table:- Stocktake Discrepancy Adjustments Report
+6.	Once the MSB1SHB is signed, and dated, and the person who has made the adjustments in SM has signed and dated the MSB1SHB, the report is to be retained with stocktake documents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V04S10C02C7 - STOCKTAKING SPOT CHECK SCHEDULING BATCH (MSB1SC)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SC - Stocktaking Spot check Scheduling Batch.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Run icon in the MSE1SP - Update Spotcheck Programme Schedule Screen.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person running the report or stocktake team will be displayed
+Requested On	Report Date and Time Report is called is displayed
+Selection Criteria	 
+District Code	District Code is displayed
+Stocktake Programme	Stocktake programme number is displayed
+Programme Group Id	Programme Group Id is displayed
+Schedule Period	Schedule period is displayed
+Count Officer	Count Officer is displayed
+Print All Count Sheets	Print all Count Sheets is displayed Y/N
+Type of Count Sheet Print	Type of Count Sheet Print is displayed B/T/D
+Programme Defaults	 
+Spot Check Rule / Prefix	Spot Check Rule / Prefix is displayed
+Stocktake Manager / Team id	Stocktake Manager / Team id is displayed
+Spot check period start date	Spot check period start date
+Spot check period end date	Spot check period end date
+No of days to execute	No of days to execute
+Spot Checks Selection Parameters	 
+Random Selection of Stock	Will default to N
+Custodian Id	Will be blank.
+Bin Code From/To Range	Bin Code Range is displayed if selected
+Grid Code From/To Range	Grid Code Range is displayed if selected
+Category Id From/To Range	Category Id is displayed if selected
+Inventory Cost From/To Range	Inventory Cost is displayed if selected
+Stock Class	Stock Class is displayed if selected
+Stock Type	Stock Type is displayed if selected
+Stocktake Category	Stocktake Category is displayed if selected
+Supplementary Stocktake Successfully Completed - Run Totals	 
+Programme Id	Programme Id is displayed
+Group Id	Group Id is displayed
+Period	Period is displayed
+Stocktake Number	Stocktake Number is displayed
+Sample Size	Sample Size is displayed
+Total Stock Codes Processed	Total Stock Codes is displayed.
+Total Bin Locations Processed	Total Bin Locations is displayed.
+Total Count Items Processed	Total Count Items is displayed
+Total Count Sheets Processed	Total Count Sheets is displayed
+Table:- Supplementary Stocktake Schedule - Control Report
+4.	This report does not have to be retained.
+
+ 
+V04S10C02C8 - SUPPLEMENTARY STOCKTAKE SCHEDULE - CONTROL REPORT (MSB1SD)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SD - Supplementary Stocktake Schedule - Control Report.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Run icon in the MSE1SD - Create Supplementary Stocktake Screen.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person running the report or stocktake team will be displayed.
+Requested On	Report Date and Time Report is called is displayed.
+Selection Criteria	 
+District Code	District Code is displayed.
+Stocktake Number	Stocktake number is displayed.
+Run Mode	Run Mode is displayed.
+Count Officer	Count Officer is displayed in Update Mode
+Print All Count Sheets	Print all Count Sheets is displayed Y/N.
+Type of Count Sheet Print	Type of Count Sheet Print is displayed B/T/D.
+Supplementary Stocktake Parameters	 
+Stocktake Reason Code	Stocktake Reason Code is displayed.
+Random No. / Percentage of Stock	If Selected percentage of stock codes is displayed if selected.
+Custodian (Whouse/SCA/Employee)	Custodian is displayed.
+Stock Code From/To Range	Stock code Range is displayed if selected.
+Bin Code From/To Range	Bin Code Range is displayed if selected.
+Grid Code From/To Range	Grid Code Range is displayed if selected.
+Category Id From/To Range	Category Id is displayed if selected.
+Inventory Cost From/To Range	Inventory Cost is displayed if selected.
+Stock Class	Stock Class is displayed if selected.
+Stock Type	Stock Type is displayed if selected.
+Stocktake Category	Stocktake Category is displayed if selected.
+Supplementary Stocktake Successfully Completed	 
+Total Stock Codes Processes	Total Stock Codes is displayed - depending on parameters used.
+Total Bin Locations Processed	Total Bin Locations is displayed - depending on parameters used.
+Total Count Items Processed	Total Count Items is displayed.
+Total Count Sheets Processed	Total Count Sheets is displayed.
+Table:- Supplementary Stocktake Schedule - Control Report
+4.	This Report does not have to be retained.
+
+
+
+
+ 
+V04S10C02C9 - STOCKTAKE/STORES ADJUSTMENT VOUCHER (SSAV) DOCUMENT (MSA1S1)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSA1S1 - Stocktake / Stores Adjustment Voucher (SSAV). Items will only appear on the SSAV if there has been an adjustment.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Print SSAV icon in theMSE1SD - Create Supplementary Stocktake Screen OR MSE1SB - Update Programme Stocktake Screen.
+Report Outputs
+FIELD	DESCRIPTION
+SSAV Document - Prompts (Page 1)	 
+District	District will be displayed
+Stocktake Number	Stocktake Number will be displayed
+SSAV Document (Page 1 /1 )	 
+District	District will be displayed.
+Stocktake Number	Stocktake Number will be displayed.
+Stocktake Group	Stocktake Group will be displayed.
+Programme Group	Programme group will be displayed.
+Programme Id	Programme Id will be displayed.
+Programme Period	Programme Period will be displayed.
+Stocktake Manager	Stocktake Manager field will be populated with the Stocktake Team Identification.
+Date	Date of print will be displayed.
+Value of Surplus Inventory	Value of Surplus Inventory will be displayed.
+Value of Surplus Assets	Value of Surplus Assets will be displayed.
+Total Value of Surplus	Total Value of Surplus will be displayed.
+Value of Deficient Inventory	Value of Deficient Inventory will be displayed.
+Value of Deficient Assets	Value of Deficient Assets will be displayed.
+Total Value of Deficient	Total Value of Deficient will be displayed.
+Delegate to Determine Liability for Loss of Public Property	 
+I certify that I have determined a course of action relating to a report of a loss or damage to public property in accordance with FINMAN 2	The delegate to determine liability is to fill in the appropriate boxes below this statement after determining a course of action to be taken in regards to the loss or damage of public property.
+Delegate Decision	The Delegate is to Leave Blank if the Delegate has determined Liability against each line of the SSAV or record a decision against the whole SSAV by enfacing the SSAV with the decision in accordance with   (A-G)
+Delegate RoL Number	The Register of Losses document is no longer required and is not part of Stocktaking. There is no longer a requirement to enface the SSAV with a RoL number.
+Signature of delegate for Fast Track Chief	The Delegate is to sign the SSAV
+Printed Name	The Delegate is to print their Name
+Rank or Appointment	The Delegate is print their Rank or Appointment
+Date	The Delegate is to date the SSAV
+Stocktake Manager	 
+I certify that all stocktake documents are signed / dated / cross references and retained in the unit / organisation for audit purposes.	The stocktake manager is to fill in the appropriate boxes below this statement after ensuring that all paperwork relating to the stocktake is correctly signed / dated / cross references to allow for an auditable trail and retained.
+SSAV DOCUMENT (page 2 onwards) 	 
+Stock Code	Stock Code of discrepancy will be displayed.
+Liability Code	The Delegate is to Determine Liability against each line of the SSAV by enfacing a decision on the SSAV in accordance with  (A-G)
+Item Name	Item Name will be displayed.
+UOI	UOI will be displayed.
+Bin	Bin location will be recorded if the stocktake was in a warehouse location.
+Count Quantity	The actual count quantity will be recorded.
+Quantity	 
+Surplus	Quantity of surplus quantities will be displayed if surplus.
+Deficiency	Quantity of deficiencies will be displayed if deficient.
+Inventory Value	 
+Surplus	Value of Surplus Inventory will be displayed.
+Deficiency	Value of Deficient Inventory will be displayed.
+Asset Value	 
+Surplus	Value of Surplus Assets will be displayed up to 12 characters. NOTE - if the total value is over 12 characters, the full value will be displayed on the front page.
+Deficiency	Value of Deficient Assets will be displayed up to 12 characters. NOTE - if the total value is over 12 characters, the full value will be displayed on the front page.
+SCA WAC Price	SCA WAC price will be displayed
+Comment - Value of Asset Adjusted	 
+Value of Inventory Items	The value of Surplus and Deficient Inventory Items will be displayed
+Value of Asset Items	The value of Surplus and Deficient Asset Items will be displayed
+Total	The value of Surplus and Deficient Items will be displayed
+Table:- SSAV Document
+4.	The SSAV can only be printed if there are actual discrepancies and the discrepancies have been adjusted.
+5.	Once printed, the SSAV is to be forwarded to the stocktake manager so that it may form part of the report to the delegate. The Delegate is to determine a course of action against the loss or damage of public property.
+6.	Once the SSAV has been forwarded to the Delegate to Determine Liability, it is no longer part of the on-line SM stocktaking process. All adjustments resulting from discrepancies have already been actioned. The SSAV is to be retained with the stocktake documentation after the Delegate has determined a course of action in relation to the loss.
+7.	The SM SSAV records both deficiencies and surpluses. The Delegate only has a responsibility to determine liability against losses.
+
+ 
+V04S10C02C10 - SSAV APPROVAL PENDING CONTROL REPORT (MSB1SG)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SG - SSAV Approval Pending Control Report.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Notify SSAV Approval icon in the MSE1SD - Create Supplementary Stocktake Screen OR MSE1SB - Update Programme Stocktake Screen.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	The User Id of the person who is sending notification will be displayed.
+Requested On	Date and Time report submitted will be displayed.
+Selection Criteria	 
+Stocktake District	Stocktake District will be displayed.
+Stocktake Number	Stocktake Number will be displayed.
+Approver	Userid of the Approver will be displayed.
+Notification Text	Notification message will be displayed.
+Medium	Medium will be displayed.
+Printer	Printer will be displayed if Print was the Medium.
+Control tasks	 
+If count tasks have not been finalised - a list of discrepant tasks will be displayed.	 
+Count Tasks Outstanding	The number of count tasks outstanding will be displayed
+Total Number of SSAV items Updated	Total Number of SSAV items will be displayed
+Stocktake Complete, SSAV Approval Pending Notification Sent	Will be displayed if there are no out standing items to be updated
+Stocktake Outstanding	Will be displayed if there discrepant tasks have not been finalised.
+Table: 2C10-1 SSAV Approval Pending Control Report
+4.	The stocktake cannot be acquitted until the Notify SSAV approval icon has been used. Therefore there is no need to retain this report.
+
+ 
+V04S10C02C11 - STOCKTAKE ACQUITTAL CONTROL REPORT (MSB1SAA)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SAA - Stocktake Acquittal Control Report. The stocktake cannot be acquitted if there are outstanding tasks associated with the stocktake. If the stocktake is not complete the stocktake team is to investigate and resolve any out standing tasks.
+2.	The stocktake acquittal control report writes all the count tasks to the history file.
+PROCEDURE
+3.	This report cannot be run directly in SM.
+4.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Acquit icon in the MSE1SD- Create Supplementary Stocktake Screen OR MSE1SB - Update Programme Stocktake Screen.
+Report Outputs
+5.	The following information is captured on the MSB1SAA - Stocktake Acquittal Control Report:
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person acquitting the stocktake / assurance checks will be displayed.
+Requested On	Report Date and Time Report is called is displayed.
+Selection Criteria	 
+District Code	District Code is displayed.
+Stocktake Number	Stocktake number is displayed.
+Actual Count Start Date	Actual Count Start Date will be displayed.
+Actual Count Completed Date	Actual Count Completed Date will be displayed.
+Date to	Will be Blank.
+Page 2	 
+Count Sheet	Total Number of count sheets processed will be displayed.
+Status	Status will be displayed as Completed. If the Status is still at printed the stocktake is not complete.
+Control Totals	 
+Count Sheets Processed	The number of count sheets processed is displayed
+Count Sheets Outstanding with Create Status	Any outstanding count sheets with a create status will be displayed if the stocktake is not complete
+Count Sheets Outstanding with Print Status	Any outstanding count sheets with a Print status will be displayed if the stocktake is not complete
+Count Sheets Completed	The number of count sheets completed will be displayed
+Count Tasks processed	The number of count tasks processed will be displayed
+Count Tasks Outstanding	The number of outstanding tasks will be displayed if the stocktake is not complete
+Count Tasks Completed	Count tasks completed will be displayed
+Count Tasks deleted	Count tasks deleted will be displayed
+Holdings Tasks deleted	Holding tasks deleted will be displayed
+Count Tasks History created	Count task history created will be displayed
+Holding Tasks History created	Holding task history will be displayed
+Stocktake Complete - End of Report- / Stocktake NotComplete - End of Report	If the stocktake is not complete, the stocktake team is to investigate and resolve any outstanding discrepancy tasks.
+6.	Table: - Stocktake Acquittal Control Report
+7.	Stocktakes and assurance checks cannot be acquitted or completed until all actions have been conducted, therefore there is not need to retain this report.
+ 
+V04S10C02C12 - STOCKTAKE PROGRAMME COMPLETION CONTROL REPORT (MSB1SFA)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SFA - Stocktake Programme Completion Control Report.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STKPLANNER by selecting the Complete icon in theMSE1S5 - Create Stocktake Programme Screen.
+Report Outputs
+4.	The following information is captured on the MSB1SFA - Stocktake Programme Completion Control Report:
+Field	Description
+Report Parameters	 
+Request Userid	Userid of the person acquitting the stocktake / assurance checks will be displayed
+Requested On	Report Date and Time Report is called is displayed
+Selection Criteria	 
+Stocktake District	District Code is displayed
+Stocktake Programme ID	Stocktake Programme ID is displayed
+Page 2	 
+Programme Stocktake Period Status	Programme Stocktake Period Status will be completed for all completed periods. Where there is more that 1 (one) programme period - the programme period will be displayed.
+Programme Group ID	Programme Group ID is displayed
+Programme Cyclic Status	Where there is more that 1 (one) programme period - The status of each programme period is displayed.
+Programme Spotcheck Status	Programme Spot check Status will be displayed
+Stocktake Number	Stocktake Number will be displayed
+Stocktake Method	Stocktake Method will be displayed
+Control Totals	 
+Number of Cyclic Stocktake Programme Periods Scheduled	Number of Cyclic Stocktake Programme Periods Scheduled will be displayed
+Number of Scheduled Cyclic Stocktakes Completed	Number of Scheduled Cyclic Stocktakes Completed will be displayed
+Number of Scheduled Cyclic Stocktakes Outstanding	Number of Scheduled Cyclic Stocktakes Outstanding will be displayed
+Number of Cyclic Stocktake Programme Periods Outstanding	Number of Cyclic Stocktake Programme Periods Outstanding will be displayed
+Number of Spotcheck Stocktake Periods Scheduled	Number of Spot check Stocktake Periods Scheduled will be displayed
+Number of Scheduled Spotcheck Stocktake Completed	Number of Scheduled Spot check Stocktake Completed will be displayed
+Number of Scheduled Spotcheck Stocktake Outstanding	Number of Scheduled Spot check Stocktake Outstanding will be displayed
+Number of Spotcheck Stocktake Periods Outstanding	Number of Spot check Stocktake Periods Outstanding will be displayed
+Number of Supplementary Stocktake Periods Scheduled	Number of Supplementary Stocktake Periods Scheduled will be displayed
+Number of Supplementary Stocktake Periods Outstanding	Number of Supplementary Stocktake Periods Outstanding will be displayed
+End of Report	 
+5.	Table:- Stocktake Programme Completion Control Report
+6.	Where the number of programme periods exceed one (1), the Stocktake Programme Completion Control Report will list all the programme periods with a cyclic status of:
+a.	Updated; or
+b.	Feasibility; or
+c.	Unscheduled.
+7.	The stocktake cannot be completed until all actions have been conducted, there is no need to retain this report.
+
+
+
+V04S10C02C13 - STOCKTAKE COMPLETION (MSA1SB)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSA1SB - Stocktake Completion.
+2.	This report is called by District / Stocktake Number.
+PROCEDURE
+3.	To access the Stocktake Completion report (MSA1SB) type MSA1SB in the Quick Launch field and Click Go or press Enter and the Maintain Reports Request (MSM080B) screen will be displayed.
+Field	Entry	Mandatory
+Medium	Will default to P - Print or select I - Reporting Inbox from the drop down box	Yes
+Publish Type	Select PDF from the drop down box	No
+For Printing	Printer will default -Delete if I - Reporting Inbox was the selection	Yes
+4.	Table: MSM080B - Maintain Report Request
+5.	Select Submit and the MSM080C - Modify Report Parameters screen will be displayed as follows:
+Field	Entry	Mandatory
+Report	Leave Blank. MSA1SBA Stocktake Completion will be displayed	Yes
+District Code	Enter District Code	Yes
+Stocktake Number	Enter Stocktake Number - Do NOT use leading zero's	Yes
+6.	Table: MSM080C - Maintain Report Request
+7.	Select Submit and Message Report Request Successfully Written will be displayed.
+Report Outputs
+8.	The following information is captured on the MSA1SB - Stocktake Completion Report:
+FIELD	DESCRIPTION
+Stocktake Number	The stocktake number will be displayed.
+Supply Customer Id	The Supply Customer Id will be displayed if the stocktake / assurance check was for an SCA.
+Supply Customer Name	The Supply Customer Name will be displayed if the stocktake / assurance check was for an SCA.
+District Code	The District Code will be displayed if the stocktake / assurance check was for a WHS.
+Warehouse	The Warehouse will be displayed if the stocktake / assurance check was for a WHS.
+Team Id	The team id will be displayed
+Scheduled Start Date	Scheduled Start Date will be displayed
+Scheduled End Date	Scheduled End Date will be displayed
+Actual Start Date	Actual Start Date will be displayed
+Actual End Date	Actual End Date will be displayed
+Number of Count Sheets	Number of Count Sheets printed will be displayed
+Count Sheet No	 
+Count Officer	Count Officer userid will be displayed
+Stocktake method	Stocktake method will be displayed
+Count Sheet Type	Count Sheet Type will be displayed
+Count Status	Count Status will be displayed
+Count Tasks	The number of count tasks to be counted will be displayed
+Count Tasks Counted	The number of count tasks counted will be displayed
+Count Tasks To Count	Will be printed as zero if completed
+Discrepancies	The number of stock codes discrepant will be displayed
+Recounts	The number of recounts by quantity of individual items will be displayed
+Count Tasks Completed	The number of count tasks completed will be displayed
+Percentage Completed	The percentage of count tasks completed will be displayed
+Excluded From Count	The number of stock codes placed "Not in Count' will be displayed
+Stock Codes to Count	The number of stock codes to count will be displayed - even where the count tasks are already completed
+Stock Codes Counted	The number of stock codes counted will be displayed
+Locations to Count	The number of locations to count will be displayed
+Locations Counted	The number of locations counted will be displayed
+Value of Stock Counted	The value of the stock counted will be displayed
+Qty of Surplus Adjustments	The quantity of surpluses will be displayed (the total quantity number of actual surpluses)
+Qty of Deficient Adjustments	The quantity of deficiencies will be displayed (the total quantity number of actual deficiencies)
+Qty of Adjustments	The quantity of adjustments will be displayed (the total sum of surpluses and deficiencies)
+Value Surplus Adjustments	Will be printed unless
+Value Deficient Adjustments	Will be printed
+Net Value of Adjustments	Will be printed
+% Net value Adjustments	Will be printed
+Stock Codes in Error	The number of stock codes with adjustments will be printed
+% Stock Codes in Error	The percentage of stock codes in error will be displayed
+9.	Table:- Stocktake Completion Report
+10.	There is no need to retain this report.
+
+ 
+V04S10C02C14 - PROGRAMME SCHEDULE DELETION (MSB1SQ)
+PURPOSE
+1.	The purpose of this appendix is to detail the report outputs for MSB1SQ - Programme Schedule Deletion Report.
+PROCEDURE
+2.	This report cannot be run directly in SM.
+3.	It is accessed by a member of the stocktake team with the global profile of STOCKTAKER by selecting the Batch Delete icon in the MSE1SD - Create Supplementary Stocktake Screen OR MSE1SB - Update Programme Stocktake Screen.
+4.	The Batch Delete icon is only available until the count sheets are printed. Once printed the stocktake / assurance check cannot be deleted.
+Report Outputs
+FIELD	DESCRIPTION
+Report Parameters	 
+Request Userid	Userid of the person running the report or stocktake team will be displayed
+Requested On	Report Date and Time Report is called is displayed
+Selection Criteria	 
+Stocktake Number	Stocktake number is displayed
+Number of Schedule Stocktake that was deleted	Number of Schedule Stocktake that was deleted will be displayed.
+Number of Count Sheets Deleted	Number of Count Sheets Deleted will be displayed. Nothing will be displayed where there were no count sheets.
+Number of Stocktake Count Tasks Deleted	Number of Stocktake Count Tasks Deleted will be displayed. Nothing will be displayed where there were no count sheets.
+Number of Holding Tasks Deleted	Number of Holding Tasks Deleted will be displayed. Nothing will be displayed where there were no count sheets.
+Status Changed to Feasibility	Y will be displayed. N will be displayed if the Deletion was for an assurance check.
+Table:- Programme Schedule Deletion Report
+5.	The Batch Delete icon will reset the stocktake status back to feasibility. There is no need to retain this reports as the stocktake is still active and able to be conducted.
+
+
+
+
+V04S10C02D - SM STOCKTAKE MANAGEMENT REPORTS
+INTRODUCTION
+1.	SM stocktake management reports provide detail against stocktake for stocktake managers/ unit commanders/managers/contract authorities or SPO Equivalents, Fast Track inventory management  controls staff and CJLOG.  
+2.	Stocktaking applies to all Fast Track Groups and Fast Track contractors that manage Fast Track assets on behalf of the Department of Fast Track, including deployed forces.
+AIM
+1.	The aim of this chapter is to provide business processes surrounding SM stocktake reports in SM.
+REPORTS
+2.	There are two types of SM stocktake management reports. One (s) that record progress against a stocktake plan and the other (s) records error rates and exceeding of tolerances.
+CR200 Reporting Periods in SM
+3.	The reporting periods for the following CR200 reports - MSA1SK / MSA1SL / MSA1SM - are detailed below:
+4.	Reporting periods align with the financial year. The stocktake cycle comprises of two financial years of 2016 and 2017 financial years.
+5.	Reporting periods in SM will be classified as quarters and each quarter is composed as three months to align with the financial year as follows:
+a.	01 July - 30 September (is the first reporting period of the 2016 financial year), is expressed as: from 1601 to 1601. Reporting period July - September 2016
+b.	01 October - 31 December (is the second reporting period of the 2016 financial year), is expressed as: from 1602 to 1602.
+6.	Most reports can be run within a specified quarter or range of quarters under a specified reporting parent or reporting hierarchy position.
+7.	The reason the CR200 reports can be run quarterly or 6 monthly (range of quarters) is so the unit/organisation can pinpoint/investigate any error rates by volume or value that are above tolerance, prior to the submission of the progressive stocktake results for DARC reporting.
+DARC Reporting
+8.	Fast Track is required to report bi-annually to the Fast Track Audit and Risk Committee (DARC) on stocktaking results. CEO CASG, Group and Service Heads, DGEO and CJH (or their authorised representatives) are required to provide a report to DARC, through CJLOG, on stocktaking progress and results every 6 months.
+9.	Reports dates can be found on the   page.
+10.	For information regarding the contents of the reports, refer   Stocktaking Directives.
+Reporting Hierarchy Position
+11.	A reporting hierarchy has been designed in SM to enable Fast Track to report in depth stocktake results against plans and tolerances. Each stocktake will report will require the SRS Class indicator to be entered as a parameter allowing both stocktakes and assurance stocktakes to be reported on in the same manner.
+12.	Expressed as Highest Reporting Hierarchy Position in the MSM080C - Modify Reports Parameters Screen in SM, the reporting hierarchy position is the Planning Position in the MSE1S3 - Stocktake Plan Screen in SM.
+13.	Reporting Hierarchy Position is also expressed as the Reporting Position in the MSE1S5 - Stocktake Programme Screen in SM.
+14.	Reporting position (MSE1S5) and Planning positions (MSE1S3) do not need to be the same.
+15.	The reporting position in the MSE1S5 - Stocktake Programme screen may be either:
+a.	A single Supply Customer;
+b.	A single district/warehouse combination; or
+c.	The planning position as identified in the MSE1S3 - Stocktake Plan screen.
+Planning Reports
+16.	The following reports enable stocktake managers to follow progress against the approved stocktake plan:
+NOTE:
+These report may rely on an over night batch run to produce results.
+a.	Stocktake Planning report (MSA1SP). The Stocktake Planning report will provide information on what warehouses and Supply Customers have been planned for a nominated reporting position over a given stocktake cycle and SRS class code.
+b.	Stocktake Not Planned report (MSA1SQ). The Stocktake Not Planned Report will provide information on what warehouses and Supply Customers have not been planned for a nominated reporting position over a given stocktake cycle and SRS class code.
+c.	Stocktake Progress report - Programmes (MSA1SR). The Stocktake Progress - Programmes report will provide information on what programmes have been created for the stocktake plan and the progress of those programmes at the date of the report.
+d.	Stocktake Progress report - Tasks (MSA1SS). The Stocktake Progress Task report will provide information on what count tasks have been created for the stocktake plan and the progress of the count tasks at the time of the report.
+e.	Stocktake Plan Performance report (MSA1ST). The Stocktake Plan Performance report will provide information on the date a line in the plan was completed and compare this to the date the plan was to be completed by.
+17.	Both the stocktake planning report and the stocktake not planned report, need to be run by the stocktake manager or a person in the stocktake team with access to the reports prior to unit commander / manager / contract authority / SPO equivalent approving the stocktake plan(s).
+18.	Unapproved plan(s) cannot be actioned in SM.
+Error Rate and Tolerance Level Reports
+19.	The following reports enable stocktake managers to monitor and track stocktakes and assurance checks error rate and tolerances:
+a.	Assurance Check report (MSA1SK). The Assurance Check report shall provide a comparison between two period ranges for completed assurance checks based on the SRS Class Code. The report will compare error rates and adjustments for a specified quarter or range for the full two years assurance check cycle. This report has dynamic drill down functionality to show details of each of the lower reporting levels.
+b.	Stocktaking Activity report (MSA1SL). The Stocktaking Activity report will summarise each completed stocktake or assurance check that was completed within a specified quarter or range of quarters under a specified reporting parent. This report details the write-on, write-off and values against each reporting range. This report doesn't allow for any drill down functionality.
+c.	Stocktaking Performance report (MSA1SM). The Stocktaking Performance report shall summarise the activity for completed stocktakes or assurance check that was completed within a specified quarter or range of quarters under a specified reporting parent. This report will detail the volume error rates and value error rates against the number of stocktakes or assurance checks completed.
+1.1.1.1	V04S10C02D1 - STOCKTAKE MANAGEMENT REPORTS DETAIL
+PURPOSE
+1.	The purpose of this Annex is to provide a list of reports that are utilised for stocktake management reasons.
+REPORTS
+2.	For further information on the following list of reports, click the Report ID number and go to the Master List of Reports.
+3.	The Master List of Reports links to data entry information for the generation of specific Reports.
+4.	For further information regarding printing, reviewing, saving a report using Infoview, refer to  .
+Stocktake Management Reports
+5.	Following is a list of stocktake management reports. Further details about the report are contained below.
+Report ID	Report Title	Description	Who (Profile)	Outputs
+MSA1SP	Stocktake Planned Report	The MSA1SP - Stocktake Planned Report will provide information on what warehouse, warehouse location and Supply Customers that have been planned for a nominated Reporting Position ID.	Stocktake Planner/Stocktaker	 
+MSA1SQ	Stocktake Not Planned Report	The MSA1SQ - Stocktake Not Planned Report will provide information on what warehouse, warehouse location and Supply Customers that have NOT been planned for a nominated Reporting Position ID.	Stocktake Planner/Stocktaker	 
+MSA1SR	Stocktake progress Report - Programmes	The MSA1SR - Stocktake Progress Report - Programmes will provide information on what programmes have been created for the stocktake plan and progress against the programmes at the time of the report	Stocktake Planner/Stocktaker	 
+MSA1SS	Stocktake Progress Report - Tasks	The MSA1SS - Stocktake Progress Report - Tasks will provide information on what count tasks have been created for the stocktake plan and progress against the programmes at the time of the report.	Stocktake Planner/Stocktaker	 
+MSA1ST	Stocktake Plan Performance Report	The MSA1ST - Stocktake Plan Performance Report will provide information on the date a line in the plan was completed and compare it to the planned completion date.	Stocktake Planner/Stocktaker	 
+MSA1SJ	Two Year Stocktaking Report	This report has been removed as it contain incorrect data.	Stocktake Planner/Stocktaker	Appendix 7
+MSA1SK	Assurance Check Report	The MSA1SK - Assurance Check Report details assurance checks have been completed during the two-year stocktaking cycle.	Stocktake Planner/Stocktaker	 
+MSA1SL	Stocktaking Activity Report	The MSA1SL - Stocktaking Activity Report details activity against stocktakes within a quarter, or range of quarters for a specified reporting position.	Stocktake Planner/Stocktaker	 
+MSA1SM	Stocktaking Performance Report	The MSA1SM - Stocktaking Performance Report details performance against each completed stocktake for a specified reporting position.	Stocktake Planner/Stocktaker	 
+DZACAD	Category Holding Investigation Report - AD	The DZACAD - Category Holding Investigation Report - AD details the number of stock codes in a warehouse that have been assigned category AD - Pending Adjustment over 30 days.	Stocktake Planner/Stocktaker	 
+MSA1S2	Stocktake Programme Sheet Status	The MSA1S2 - Stocktake Programme Sheet Status - Report, provides detailed information regarding of all stocktake programmes, including a summary of the total stocktake programmes. This report can be run by programme / group or reporting parent.	Stocktake Planner/Stocktaker	 
+MSA1S5	Stocktake Programme Stats - Report	The MSA1S5 - Stocktake Programme Stats reports	Stocktake Planner/Stocktaker	 
+MSA1S6	Stocktake Programme Stats - Report	The MSA1S6 - Stocktake Programme Stats Report details the number of count periods, count sheets, stock codes / locations including count tasks, available days, count tasks adjusted and count tasks not counted for cyclic stocktakes and spot-checks.	Stocktake Planner/Stocktaker	 
+6.	Table:- Stocktake Management Reports - Output
+
+
+
+V04S10C02D2 - STOCKTAKE PLANNED REPORT (MSA1SP)
+PURPOSE
+1.	The purpose of this appendix is to enable the stocktake manager or member of the stocktake team to request and print the MSA1SP - Stocktake Planned report.
+FREQUENCY
+2.	This report is to be run as required where new lines have been added to the plan that need to be approved. Where lines are not approved in SM, programming cannot be commenced.
+3.	Each Planned Report must be maintained by the stocktake manager / team for the duration of the stocktake cycle. Each Plan must be signed by the unit commander/manager/contract authority/SPO equivalent.
+PROCEDURE
+4.	To access the Stocktake Planned Report (MSA1SP) type MSA1SP in the Quick Launch field and Click Go or press Enter and the Maintain Reports Request (MSM080B) screen will be displayed.
+Field	Entry	Mandatory
+Medium	Will default to P - Print or select I - Reporting Inbox from the drop down box	Yes
+Publish Type	Select PDF from the drop down box	Yes
+For Printing	Printer will default -Delete if I - Reporting Inbox was the selection	Yes
+5.	Table: MSM080B - Maintain Report Request
+6.	Select Submit and the MSM080C - Modify Report Parameters will be displayed as follows:
+Field	Entry	Mandatory
+Stocktake Period Cycle	Enter Stocktake Period Cycle as selected in the MSE1S3.	Yes
+SRS Class Code	Enter SRS Class Code. S = Stocktakes.	Yes
+Highest Reporting Hierarchy Position	Enter the Highest Reporting Hierarchy Position in CAPITALS.	Yes
+Reporting Hierarchy Version	Enter Reporting Hierarchy Version (004)	Yes
+Custodian Type	Enter Custodian Type - S = SCA. W = Warehouse	No
+Bin Location From	Enter Bin Location From	No
+Bin Location To	Enter Bin Location To	No
+7.	Table: MSM080C - Modify Report Parameters
+
+
+
+
+8.	Report Outputs
+9.	The following information is detailed on the report:
+Field	Description
+Stocktake Planned Report - MSA1SP	 
+Reporting Position ID	Reporting Position ID will be displayed
+Reporting Position Description	Reporting Position Description will be displayed
+SM Plan ID Number	SM Plan ID Number will be displayed
+Reporting Hierarchy Version	For 2014-2016 stocktake cycle - this will be 003
+SRS Class Code	S - Stocktake A - Assurance Check
+Stocktake Plan Line	Stocktake Plan Line will be displayed
+ 	Reporting Position Id and Description will be printed.
+Custodian Type	W = Warehouse / S = Supply Customer will be displayed
+Warehouse / SCA Id	Warehouse / SCA Id
+Description of Planning Line	Description of Planning Line
+Locations From	Locations From will be printed if this was a parameter
+Location To	Location To will be printed if this was a parameter
+Planned Stat Date	Planned Stat Date will be printed
+Planned Completion Date	Planned Completion Date will be printed
+Approving Officer	The unit commander/manager/contract authority/SPO equivalent is to print there Name / Initials/ and Rank / Position
+Signature of Approving Officer	Each Plan must be signed by the unit commander/manager/contract authority/SPO equivalent.
+Date Approved	Each Plan must be dated by the unit commander/manager/contract authority/SPO equivalent.
+10.	Table:- MSA1SP Stocktake Planned Report
+11.	Each signed and approved Plan must be kept for the duration of the stocktake cycle for audit purposes.
+ 
+V04S10C02D3 - STOCKTAKE NOT PLANNED REPORT (MSA1SQ)
+PURPOSE
+1.	The purpose of this appendix is to enable the stocktake manager or member of the stocktake team to request and print the MSA1SQ - Stocktake Not Planned report.
+2.	This report requires the overnight batch report (MSB1SY) to be run before any current data will be returned on the report.
+FREQUENCY
+3.	The MSA1SQ - Stocktake Not Planned Report is to be printed at the beginning of each stocktake cycle. Each report is to be kept by the stocktake manager / team for the duration of the stocktake cycle.
+4.	This report can be run at any time to ensure that new asset holding entities are being added to the plan.
+5.	The MSA1SQ - Stocktake Not Planned report is not required for assurance stocktakes.
+PROCEDURE
+6.	To access the Stocktake Not Planned Report type MSA1SQ in the Quick Launch field and Click Go or press Enter and the Maintain Reports Request (MSM080B) screen will be displayed.
+Field	Entry	Mandatory
+Medium	Will default to P - Print or select I - Reporting Inbox from the drop down box	Yes
+Publish Type	Select PDF from the drop down box	No
+For Printing	Printer will default -Delete if I - Reporting Inbox was the selection	Yes
+7.	Table: MSM080B - Maintain Report Request
+8.	Select Submit and the MSM080C - Modify Report Parameters will be displayed as follows:
+Field	Entry	Mandatory
+Stocktake Period Cycle	Enter Stocktake Period Cycle as selected in the MSE1S3 as 2016-2018	Yes
+SRS Class Code	Enter SRS Class Code. S = Stocktakes.	Yes (If left Blank - All SRS class codes will be returned)
+Highest Reporting Hierarchy Position	Enter the Highest Reporting Hierarchy Position in CAPITALS.	Yes
+Reporting Hierarchy Version	Enter Reporting Hierarchy Version with leading 00s (004)	Yes
+Custodian Type	Enter Custodian Type - S = SCA. W = Warehouse	No
+Bin Location From	Enter Bin Location From	No
+Bin Location To	Enter Bin Location To	No
+9.	Table: MSM080C - Modify Report Parameters
+10.	Report Outputs
+11.	The following information will be displayed on the report unless there is nothing to report:
+Additional Information:	 
+Last Extraction Date (MSB1SY)	Last Extraction Date (MSB1SY) will be displayed: Note - if the data returned is inaccurate ie. SCA/WHS are in the approved plan and also on this report:
+Did you wait for the overnight batch run? or
+Check the Last Extraction Date, Is it current? If not, Raise an Service Request Catalog (SRC) ticket.
+unless there is nothing on the Report to report.
+Last Hierarchy Build Date	Last Hierarchy Build Date will be displayed unless there is nothing on the report to report.
+
+

@@ -1,0 +1,61 @@
+{% extends 'base2.html' %}
+{% load static %}
+{% load staticfiles %}
+
+{% block graphmenu %}
+	<li class="nav-item active">
+		<a class="nav-link" href="{% url 'graphs' slug %}">Dashboard<span class="sr-only">(current)</span></a>
+	</li>
+	<li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Graphs
+		</a>
+		<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			<a class="dropdown-item" href="{% url 'topicalcloud' slug %}" class= "">Topical Cloud</a>
+			<a class="dropdown-item" href="{% url 'fishbone' slug %}" class= "">Fish Bone</a>
+			<a class="dropdown-item" href="{% url 'barchart' slug %}" class= "">Bar Chart</a>
+			<a class="dropdown-item" href="{% url 'bubblegraph' slug %}" class= "">Bubble Graph</a>
+		</div>
+	</li>
+{% endblock %}
+
+{% block content %}
+
+  <body>
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="{% static 'js/main.js' %}"></script>
+	  <br></br>
+
+	  <div class="container-fluid">
+	    <div class="animated fadeIn">
+	  	<br>
+	  	<div class="card">
+	  	  <div class="card-body">
+	  		<div class="row">
+	  			<div class="col-sm-5">
+	  			  <h4 class="card-title mb-0">{{data.document}} Bubble Graph</h4>
+	  			</div>
+					<svg width="1600" height="900"></svg>
+					<script src="{% static 'js/bubblegraph.js' %}"></script>
+					<script type="text/javascript">
+						var data = "{{data|escapejs}}"
+						data = data.replace(/'/g,'"');
+						displayBubbleGraph(JSON.parse(data))
+					</script>
+	  	  </div>
+
+	  </div>
+	  </div>
+	  </div>
+
+	  </div>
+
+
+
+  </body>
+
+
+
+{% endblock %}

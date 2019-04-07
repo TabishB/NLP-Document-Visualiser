@@ -1,0 +1,77 @@
+[{
+		"screenName": "BBCWorld",
+		"id": "1036466397377949696",
+		"time": "2018-09-03T04:10:20.000Z",
+		"isRetweet": false,
+		"isPinned": false,
+		"isReplyTo": false,
+		"text": "Reuters journalists jailed in Myanmar",
+		"userMentions": [],
+		"hashtags": [],
+		"images": [],
+		"urls": [{
+			"url": "Myanmarhttps://bbc.in/2wAXreL",
+			"indices": [30, 59]
+		}],
+		"replyCount": 12,
+		"retweetCount": 137,
+		"favoriteCount": 133
+	},
+	{
+		"screenName": "BBCWorld",
+		"id": "1036452488315068416",
+		"time": "2018-09-03T03:15:04.000Z",
+		"isRetweet": false,
+		"isPinned": false,
+		"isReplyTo": false,
+		"text": "Sinead McNamara: Australian influencer dies on Greece yacht",
+		"userMentions": [],
+		"hashtags": [],
+		"images": [],
+		"urls": [{
+			"url": "yachthttps://bbc.in/2PXD8QW",
+			"indices": [54, 81]
+		}],
+		"replyCount": 31,
+		"retweetCount": 57,
+		"favoriteCount": 110
+	},
+	{
+		"screenName": "BBCWorld",
+		"id": "1034006749433487360",
+		"time": "2018-08-27T09:16:34.000Z",
+		"isRetweet": false,
+		"isPinned": false,
+		"isReplyTo": false,
+		"text": "Witnesses describe the moment a gunman opened fire at a video game tournament in Florida http://bbc.in/2wjrbNbÂ ",
+		"userMentions": [],
+		"hashtags": [],
+		"images": [],
+		"urls": [{
+			"url": "http://bbc.in/2wjrbNb",
+			"indices": [89, 110]
+		}],
+		"replyCount": 28,
+		"retweetCount": 145,
+		"favoriteCount": 285
+	},
+	{
+		"screenName": "BBCWorld",
+		"id": "1034001989594738688",
+		"time": "2018-08-27T08:57:39.000Z",
+		"isRetweet": false,
+		"isPinned": false,
+		"isReplyTo": false,
+		"text": "ð²ð²ð²",
+		"userMentions": [],
+		"hashtags": [],
+		"images": [],
+		"urls": [{
+			"url": "https://bbc.in/2wiskVb",
+			"indices": [0, 22]
+		}],
+		"replyCount": 18,
+		"retweetCount": 67,
+		"favoriteCount": 190
+	}
+]

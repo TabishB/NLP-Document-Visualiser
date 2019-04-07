@@ -1,0 +1,71 @@
+              
+              <div class="col-sm-6 col-md-4">
+                <div class="card text-white bg-success">
+                  <div class="card-header">Topical Cloud
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button" onclick = "location.href='topicalcloud.html'">View</button>
+				   	  </div>
+				  </div>
+
+                </div>
+              </div>
+              <!-- /.col-->
+              <div class="col-sm-6 col-md-4">
+                <div class="card text-white bg-info">
+                  <div class="card-header">Fishbone Diagram
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button">View</button>
+				   	  </div>
+				  </div>
+
+                </div>
+              </div>
+              <!-- /.col-->
+              <div class="col-sm-6 col-md-4">
+                <div class="card text-white bg-warning">
+                  <div class="card-header">Top Concept Frequency
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button">View</button>
+				   	  </div>
+				  </div>
+
+                </div>
+              </div>
+              <!-- /.col-->
+              <div class="col-sm-6 col-md-4">
+                <div class="card text-white bg-danger">
+                  <div class="card-header">Concept Map
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button">View</button>
+				   	  </div>
+				  </div>
+
+                </div>
+              </div>
+              <!-- /.col-->
+			  <div class="col-sm-6 col-md-4">
+                <div class="card text-white bg-danger">
+                  <div class="card-header">Ontology tree
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button">View</button>
+				   	  </div>
+				  </div>
+
+                </div>
+              </div>
+              <!-- /.col-->
+			  <a href="index.html">
+			  <div class="col-sm-6 col-md-4">
+				  <a href="index.html">
+                <div class="card text-white bg-danger">
+                  <div class="card-header">Mind map
+					  <div class="card-header-actions">
+					  	<button class="btn btn-sm btn-outline-light" type="button">View</button>
+				   	  </div>
+				  </div>
+                 
+                </div>
+				</a>
+              </div>
+
+              <!-- /.col-->

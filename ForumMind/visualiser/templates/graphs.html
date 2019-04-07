@@ -1,0 +1,102 @@
+{% extends 'base2.html' %}
+{% load static %}
+{% block graphmenu %}
+	<li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Graphs
+		</a>
+		<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			<a class="dropdown-item" href="{% url 'wordcloud' slug %}" class= "">Word Cloud</a>
+			<a class="dropdown-item" href="{% url 'topicalcloud' slug %}" class= "">Topical Cloud</a>
+			<a class="dropdown-item" href="{% url 'fishbone' slug %}" class= "">Fish Bone</a>
+			<a class="dropdown-item" href="{% url 'barchart' slug %}" class= "">Bar Chart</a>
+			<a class="dropdown-item" href="{% url 'bubblegraph' slug %}" class= "">Bubble Graph</a>
+		</div>
+	</li>
+{% endblock %}
+
+{% comment %} Each card has a class name associated with the document collected from the db. i.e "words" is a document in the mongodb collection "words".
+The view determines whether the data is available in the database for the corpus and dynamically enables the available graphs. {% endcomment %}
+{% block content %}
+<br></br>
+<br></br>
+	{{available}}
+		<div class="container">
+		  <div class="row">
+		    <div class="col-sm">
+					<div class="card" style="width: 18rem;">
+			     <div class="card-body">
+			       <h5 class="card-title">Word Cloud</h5>
+						 <p class="card-text">Word cloud </p>
+						 <!-- The ID represents the datatype that is being requested. -->
+			       <a id="wordcloud" href="{% url 'wordcloud' slug %}" class="btn btn-primary words">View</a>
+			     </div>
+			    </div>
+		    </div>
+		    <div class="col-sm">
+					<div class="card" style="width: 18rem;">
+  			   <div class="card-body">
+  				 <h5 class="card-title">Topical Cloud</h5>
+  				 <p class="card-text">Something about a topical cloud</p>
+				   <a id="topicalcloud" href="{% url 'topicalcloud' slug %}" class="btn btn-primary topics">View</a>
+  			   </div>
+  			  </div>
+		    </div>
+		    <div class="col-sm">
+					<div class="card" style="width: 18rem;">
+  			   <div class="card-body">
+  				 <h5 class="card-title">Fishbone</h5>
+  				 <p class="card-text">Something about a fishbone</p>
+  				 <a id="topicalcloud" href="{% url 'fishbone' slug %}" class="btn btn-primary topics">View</a>
+  			   </div>
+  			  </div>
+				</div>
+			</div> <!-- End of row-->
+				<br></br>
+			<div class="row">
+		    <div class="col-sm">
+					<div class="card" style="width: 18rem;">
+  			   <div class="card-body">
+  				 <h5 class="card-title">Bar Chart</h5>
+  				 <p class="card-text">Something about a Bar Chart</p>
+  				 <a id="wordcloud" href="{% url 'barchart' slug %}" class="btn btn-primary words">View</a>
+  			   </div>
+  			  </div>
+		    </div>
+		    <div class="col-sm">
+					<div class="card" style="width: 18rem;">
+  			   <div class="card-body">
+  				 <h5 class="card-title">Bubble Graph</h5>
+  				 <p class="card-text">Something about a Bubble Graph</p>
+  				 <a id="topicalcloud" href="{% url 'bubblegraph' slug %}" class="btn btn-primary words">View</a>
+  			   </div>
+  			  </div>
+		    </div>
+				<div class="col-sm">
+					<div class="card" style="width: 18rem;">
+						<div class="card-body">
+							<h5 class="card-title">Placeholder</h5>
+							<p class="card-text">For future graphs</p>
+							<button href="#" class="btn btn-primary words" disabled>View</button>
+						</div>
+					</div>
+				</div>
+			</div> <!-- End of row-->
+
+	</main>
+	<script type="text/javascript">
+		var dataVis = "{{visuals|escapejs}}";
+		dataVis = dataVis.replace(/'/g, '"');
+		dataVis = JSON.parse(dataVis)
+		console.log(dataVis)
+		for(vis in dataVis){
+			wcVis = document.getElementsByClassName(dataVis[vis]);
+			console.log(wcVis)
+			for(var i = 0;i < wcVis.length; i++){
+				wcVis[i].href = "#";
+				wcVis[i].classList.add("disabled")
+				console.log(wcVis[i]);
+			}
+		}
+	</script>
+	{% endblock %}

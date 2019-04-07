@@ -1,0 +1,16 @@
+{% load static %}
+<li class="nav-item active">
+	<a class="nav-link" href="{% url 'graphs' slug %}">Dashboard<span class="sr-only">(current)</span></a>
+</li>
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		Graphs
+	</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="{% url 'wordcloud' slug %}" class= "">Word Cloud</a>
+		<a class="dropdown-item" href="{% url 'topicalcloud' slug %}" class= "">Topical Cloud</a>
+		<a class="dropdown-item" href="{% url 'fishbone' slug %}" class= "">Fish Bone</a>
+		<a class="dropdown-item" href="{% url 'barchart' slug %}" class= "">Bar Chart</a>
+		<a class="dropdown-item" href="{% url 'bubblegraph' slug %}" class= "">Bubble Graph</a>
+	</div>
+</li>

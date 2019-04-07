@@ -1,0 +1,42 @@
+{% extends 'base2.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+<br></br>
+<div class="container-fluid">
+  <div class="animated fadeIn">
+	<div class= "col-md-10">
+		  <div class="card text-center" style="width: 46rem; margin:0 auto">
+			  <div class="card-body">
+				<h5 class="card-title">Add your data here</h5>
+				<p class="card-text">Some instructions on adding your data</p>
+				<form method="post" enctype="multipart/form-data">
+					{% csrf_token %}
+					{% cripsy form %}
+					{{ form|cripsy }}
+					<button type="submit">Upload</button>
+				</form>
+			  </div>
+		</div>
+	</div>
+  </div>
+ </div>
+ <br></br>
+ <div class= "col-md-10">
+	 <div class="card" style="width: 46rem; margin:0 auto">
+	  <h5 class="card-header">Previously added data</h5>
+	  <div class="card-body">
+		  <p>Uploaded files:</p>
+		  <ul>
+		  {% for obj in documents %}
+			<li>
+			  <a href="{% url 'graphs' obj.document.name %}">{{ obj.document.name }}</a>
+			  <small>(Uploaded at: {{ obj.uploaded_at }})</small>
+			  <small>(Number of topics: {{ obj.topics }})</small>
+			</li>
+		  {% endfor %}
+		</ul>
+	  </div>
+	</div>
+</div>
+{% endblock %}

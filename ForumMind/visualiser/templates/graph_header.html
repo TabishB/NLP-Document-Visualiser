@@ -1,0 +1,37 @@
+{% load static %}
+<!DOCTYPE html>
+<!--
+* CoreUI - Free Bootstrap Admin Template
+* @version v2.0.0
+* @link https://coreui.io
+* Copyright (c) 2018 creativeLabs Łukasz Holeczek
+* Licensed under MIT (https://coreui.io/license)
+-->
+
+<html lang="en">
+  <head>
+    <base href="./">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="description" content="CoreUI - Open Source Bootstrap Admin Template">
+    <meta name="author" content="Łukasz Holeczek">
+    <meta name="keyword" content="Bootstrap,Admin,Template,Open,Source,jQuery,CSS,HTML,RWD,Dashboard">
+    <title>Forum Mind</title>
+
+    <!-- Scripts  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="{% static 'js/cloud.js'%}"></script>
+    <script src="{% static 'js/d3.layout.cloud.js' %}"></script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="{% static 'js/d3.layout.cloud.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    <!-- Main styles for this application-->
+    <link href="{% static 'css/style.css'%}" rel="stylesheet">
+    <link href="{% static 'css/style2.css' %}" rel="stylesheet">
+    <link href="{% static 'vendors/pace-progress/css/pace.min.css' %}" rel="stylesheet">
+
+{% block content %}
+{% endblock content %}

@@ -1,0 +1,19 @@
+
+{
+	"words": [
+		{"word" : "Apple", "frequency" : 100 },
+		{"word" : "Orange", "frequency" : 80 },
+		{"word" : "Pear", "frequency" : 12 },
+		{"word" : "Coffee", "frequency" : 81},
+		{"word" : "Banana", "frequency" : 23 },
+		{"word" : "Cinnamon", "frequency" : 33},
+		{"word" : "Guava", "frequency" : 3 },
+		{"word" : "Brownie", "frequency" : 41},
+		{"word" : "Calf", "frequency" : 2 },
+		{"word" : "Sugar", "frequency" : 18 },
+		{"word" : "Avocado", "frequency" : 8 },
+		{"word" : "Grape", "frequency" : 20 },
+		{"word" : "Tomato", "frequency" : 39 },
+		{"word" : "Mango", "frequency" : 56 }
+	]
+}

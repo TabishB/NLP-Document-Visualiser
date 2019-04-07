@@ -1,0 +1,115 @@
+{% extends 'base2.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<br></br>
+
+<br></br>
+<div class="row justify-content-center">
+	<div class="col-md-6">
+	<div class="card">
+	  <h5 class="card-header text-white bg-primary">Add your data here</h5>
+	  <div class="card-body">
+		  <p class="card-text">Steps:</p>
+  		<p class="card-text"> 1) Select the number of topics you would like the LDA to generate, or leave it blank to let the LDA pick the optimal amount of topics based on the data.</p>
+		<p class="card-text"> 2) Upload a document of one of the following file types:</p>
+		<ul>
+			<li>pdf</li>
+			<li>json</li>
+			<li>txt</li>
+		</ul>
+
+  		<form method="post" enctype="multipart/form-data">
+  			{% csrf_token %}
+  			{{ form|crispy }}
+			{% if form.errors %}
+			 {{form.errors}}
+			{% endif %}
+  			<button type="submit" name="add_item" class = "btn btn-success">Upload</button>
+  		</form>
+	  </div>
+	</div>
+	</div>
+</div>
+
+<br>
+<div class="row justify-content-center">
+	<div class="col-md-6">
+	<div class="card">
+	  <h5 class="card-header text-white bg-primary">Previously Added Data</h5>
+	  <div class="card-body">
+		  {% if documents %}
+		  <table class="table">
+			   <thead>
+			     <tr>
+			       <th scope="col">File</th>
+			       <th scope="col">Amount of topics</th>
+			       <th scope="col">Uploaded At</th>
+				   <th scope="col">Status</th>
+				   <th scope="col">Delete?</th>
+			     </tr>
+			   </thead>
+			   <tbody>
+					 {% for obj in documents %}
+						  <form method="POST">
+						  {% csrf_token %}
+						  <tr>
+							 {% if obj.status == "Complete" %}
+							  <td><a href="{% url 'graphs' obj.filename %}">{{ obj.file }}</a></td>
+							 {% else %}
+							 <td><a>{{ obj.file }}</a></td>
+								 {% endif %}
+							<td>{{ obj.topics }}</td>
+							<td>{{ obj.uploaded_at }}</td>
+							<td>{{ obj.status }}</td>
+							<td> <button type="submit" name="delete_item" class ="btn btn-danger" value="{{ obj.pk }}">X</button></td>
+						  </tr>
+						  </form>
+					   {% endfor %}
+				 {% else %}
+				 <p> Sorry, there are no previously uploaded documents available.</p>
+				 {% endif %}
+
+			   </tbody>
+ 	   		</table>
+	  </div>
+	</div>
+	</div>
+</div>
+
+
+<!-- <div class="container-fluid">
+  <div class="animated fadeIn">
+	<div class= "col-md-10">
+		  <div class="card">
+			  <div class="card-body">
+				<h5 class="card-title">Add your data here</h5>
+				<p class="card-text">Some instructions on adding your data</p>
+				<form method="post" enctype="multipart/form-data">
+					{% csrf_token %}
+					{{ form|crispy }}
+					<button type="submit" class = "btn btn-success">Upload</button>
+				</form>
+			  </div>
+		</div>
+	</div>
+  </div>
+ </div> -->
+ <!-- <br></br>
+ <div class= "col-md-10">
+	 <div class="card" style="width: 46rem; margin:0 auto">
+	  <h5 class="card-header">Previously added data</h5>
+	  <div class="card-body">
+		  <p>Uploaded files:</p>
+		  <ul>
+		  {% for obj in documents %}
+			<li>
+			  <a href="{% url 'graphs' %}">{{ obj.document.name }}</a>
+			  <small>(Uploaded at: {{ obj.uploaded_at }})</small>
+			  <small>(Number of topics: {{ obj.topics }})</small>
+			</li>
+		  {% endfor %}
+		</ul>
+	  </div>
+	</div>
+</div> -->
+{% endblock %}

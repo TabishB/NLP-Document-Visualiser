@@ -1,0 +1,64 @@
+{% extends 'base2.html' %}
+{% load static %}
+{% load staticfiles %}
+
+{% block graphmenu %}
+	<li class="nav-item active">
+		<a class="nav-link" href="{% url 'graphs' slug %}">Dashboard<span class="sr-only">(current)</span></a>
+	</li>
+	<li class="nav-item dropdown">
+		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Graphs
+		</a>
+		<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			<a class="dropdown-item" href="{% url 'topicalcloud' slug %}" class= "">Topical Cloud</a>
+			<a class="dropdown-item" href="{% url 'fishbone' slug %}" class= "">Fish Bone</a>
+			<a class="dropdown-item" href="{% url 'barchart' slug %}" class= "">Bar Chart</a>
+			<a class="dropdown-item" href="{% url 'bubblegraph' slug %}" class= "">Bubble Graph</a>
+		</div>
+	</li>
+{% endblock %}
+
+{% block content %}
+
+<br></br>
+<body>
+      <main class="main">
+        <div class="container-fluid">
+          <div class="animated fadeIn">
+			<br>
+			<div class="card">
+        	  <div class="card-body">
+          	    <div class="row">
+            		<div class="col-sm-5">
+						<!-- you can change 'data.document to "slug" to make it say slugs word cloud ' -->
+                    <h4 class="card-title mb-0">Word Cloud for {{slug}} </h4>
+                </div>
+                <div id="chart"></div>
+              </div>
+          <div class="chart-wrapper">
+          </div>
+        </div>
+      </div>
+		</div>
+      </main>
+    </div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+    <script src="{% static 'js/cloud.js'%}"></script>
+    <script src="{% static 'js/d3.layout.cloud.js' %}"></script>
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type="text/javascript" src="{% static 'js/d3.layout.cloud.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+
+
+	<script src="{% static 'js/wordcloud.js' %}"></script>
+	<script type="text/javascript">
+	  var data = "{{data|escapejs}}"
+	  data = data.replace(/'/g,'"');
+	  displayWordCloud(JSON.parse(data))
+  </script>
+</body>
+{% endblock %}
